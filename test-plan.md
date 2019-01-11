@@ -4,19 +4,29 @@
 Here's a list of experiments we should carry out...
 
 Authentication:
-* can we create users?
-* can we allow login through Facebook etc?
-* can we authenticate through extra external systems?
+* can we create users? yes - https://wiki.opentrack.run/admin/users Click top right button - Create / Authorize / Users
+* can we allow login through Facebook etc? Yes, https://wiki.opentrack.run/admin/users Do the above and click select facebook from the list
+* can we authenticate through extra external systems? Microsoft, google, Slack, Github and Facebook
 
 Authorisation:
 * can we restrict access (view and edit) to specific subdirectories for specific groups of users?
 
 
 Styling
-* can we tweak the style - e.g. to match https://opentrack.run/
+* can we tweak the style - e.g. to match https://opentrack.run/  - We can only select from colors
 
 Code samples and docs
 * are they easy to edit?
+
+```python
+if stage.startswith('proposal'):
+            decision = summary.proposal_decision()
+        if stage.startswith('development'):
+            decS = summary.standard_decision()
+            decA = summary.assessment_decision()
+            decision = decS or decA
+```
+
 
 Image gallery
 * how does it work?  Is it pleasant?
