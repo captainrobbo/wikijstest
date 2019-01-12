@@ -9,14 +9,14 @@ Authentication:
 * can we authenticate through extra external systems? Microsoft, google, Slack, Github and Facebook
 
 Authorisation:
-* can we restrict access (view and edit) to specific subdirectories for specific groups of users?
+* can we restrict access (view and edit) to specific subdirectories for specific groups of users? *Yes, easy - you can define access for the Guest user to deny everything under a URL*
 
 
 Styling
-* can we tweak the style - e.g. to match https://opentrack.run/  - We can only select from colors
+* can we tweak the style - e.g. to match https://opentrack.run/  *In the UI, we can only select from colors.  But since all code is in Git, presumably we can modify it easily enough*
 
 Code samples and docs
-* are they easy to edit?
+* are they easy to edit?  *Yes, nice editor and highlighters...*
 
 ```python
 if stage.startswith('proposal'):
@@ -29,7 +29,7 @@ if stage.startswith('proposal'):
 
 
 Image gallery
-* how does it work?  Is it pleasant?
+* how does it work?  Is it pleasant? *Seems easy*
 
 Github:
 * How does it look at the GitHub end?
