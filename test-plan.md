@@ -32,5 +32,5 @@ Image gallery
 * how does it work?  Is it pleasant? *Seems easy*
 
 Github:
-* How does it look at the GitHub end?
+* How does it look at the GitHub end?  * URLs define a directory structure, every page is an md file - so this is /test-plan.md.  So it would be easy to, for example, grab all the content and transform the md files into a manual.
 * Can we clone that, write content offline, push back and update without causing total chaos?
