@@ -6,7 +6,7 @@ Here's a list of experiments we should carry out...
 Authentication:
 * can we create users? *yes - https://wiki.opentrack.run/admin/users Click top right button - Create / Authorize / Users. Also, we could programmatically access the Mongo DB to create/sync them with, say, users in a specific group*
 * can we allow login through Facebook etc? Yes, https://wiki.opentrack.run/admin/users Do the above and click select facebook from the list
-* can we authenticate through extra external systems? Microsoft, google, Slack, Github and Facebook
+* can we authenticate through extra external systems? *Seems to support Microsoft, google, Slack, Github and Facebook etc.  we will need to register an app and add a suitable client id and secret for each of them to turn them on, though*
 
 Authorisation:
 * can we restrict access (view and edit) to specific subdirectories for specific groups of users? *Yes, easy - you can define access for the Guest user to deny everything under a URL> . Example:  [Staff Directory](staff/home)*
