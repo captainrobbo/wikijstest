@@ -4,7 +4,7 @@
 Here's a list of experiments we should carry out...
 
 Authentication:
-* can we create users? yes - https://wiki.opentrack.run/admin/users Click top right button - Create / Authorize / Users
+* can we create users? *yes - https://wiki.opentrack.run/admin/users Click top right button - Create / Authorize / Users. Also, we could programmatically access the Mongo DB to create/sync them with, say, users in a specific group*
 * can we allow login through Facebook etc? Yes, https://wiki.opentrack.run/admin/users Do the above and click select facebook from the list
 * can we authenticate through extra external systems? Microsoft, google, Slack, Github and Facebook
 
@@ -32,5 +32,5 @@ Image gallery
 * how does it work?  Is it pleasant? *Seems easy*
 
 Github:
-* How does it look at the GitHub end?  *URLs define a directory structure, every page is an md file - so this is /test-plan.md.  So it would be easy to, for example, grab all the content and transform the md files into a manual.*
-* Can we clone that, write content offline, push back and update without causing total chaos?
+* How does it look at the GitHub end?  *URLs define a directory structure, every page is an md file - so this is /test-plan.md.  So it would be easy to, for example, grab all the content and transform the md files into a manual; or to generate other stuff offline.*
+* Can we clone that, write content offline, push back and update without causing total chaos? *Yes, it works.  I did not attempt to force a merge conflict though*
