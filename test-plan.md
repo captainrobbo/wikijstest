@@ -20,11 +20,11 @@ Code samples and docs
 
 ```python
 if stage.startswith('proposal'):
-            decision = summary.proposal_decision()
-        if stage.startswith('development'):
-            decS = summary.standard_decision()
-            decA = summary.assessment_decision()
-            decision = decS or decA
+    decision = summary.proposal_decision()
+    if stage.startswith('development'):
+        decS = summary.standard_decision()
+        decA = summary.assessment_decision()
+        decision = decS or decA
 ```
 
 
