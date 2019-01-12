@@ -9,7 +9,7 @@ Authentication:
 * can we authenticate through extra external systems? Microsoft, google, Slack, Github and Facebook
 
 Authorisation:
-* can we restrict access (view and edit) to specific subdirectories for specific groups of users? *Yes, easy - you can define access for the Guest user to deny everything under a URL*
+* can we restrict access (view and edit) to specific subdirectories for specific groups of users? *Yes, easy - you can define access for the Guest user to deny everything under a URL> . Example:  [Staff Directory](staff/home)*
 
 
 Styling
