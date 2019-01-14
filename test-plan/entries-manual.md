@@ -1,7 +1,6 @@
 <!-- TITLE: Training Manual - Entering Competitions -->
 
-<!-- SUBTITLE: 1.1 Introduction -->
-
+# 1.1 Introduction
 One of the major purposes of the Federation Management System is to manage entries to competitions and assign competitors to events.
 
 In order to do this the user needs to have Team Manager privileges. Request this by contacting support@opentrack.run
@@ -42,8 +41,7 @@ Clicking through the events on the left-hand side shows the age groups available
 
 Clicking on the events and/or age groups will change the available people showing up, dependent on their age group. 
 
-<!-- SUBTITLE: 1.2 Assigning Athletes -->
-
+# 1.2 Assinging Athletes
 First, ensure that you have the correct event on the left selected and the correct age-group selected. This will show all available athletes for these parameters. 
 
 Once chosen your athlete to enter:
@@ -58,7 +56,7 @@ To reverse this and “De-Select” the athlete, do the opposite so either:
 
 Once completed, click **Save** at the top right periodically. 
 
-<!-- SUBTITLE: 1.3 Down-Aging -->
+# 1.3 Down-Aging
 
 Clicking the *Don’t filter* button will ignore the gender and age group category of the athletes and show all athletes for the given club. This is useful if looking to “**down-age**” an athlete. 
 
