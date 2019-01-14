@@ -7,6 +7,7 @@ In order to do this the user needs to have Team Manager privileges. Request this
 
 Once access privileges to the competition have been granted, you must be logged in.
 
+*Log-In Screen*
 ![Log In Screen](/uploads/competition-entries-images/picture-1.png "Log-In Screen")
 
 Following this, navigate to the competition in question. From the homepage, click *Competitions* and then use the search bar to narrow the results field before clicking on your competition. 
