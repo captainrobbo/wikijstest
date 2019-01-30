@@ -13,4 +13,6 @@ These notes are about local development with wiki.js.  Here's what I did:
 "dev": "WIKI_ADMIN_EMAIL=support@opentrack.run WIKI_JS_HEROKU=1 node tools/fuse -d"
 ```
 
+7. Type `npm run dev` .  Somewhere in the console output, it creates a user with the name above and with password `admin123`
+8. You should now be able to log in.
 
