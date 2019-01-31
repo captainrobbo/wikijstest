@@ -1,4 +1,4 @@
-<!-- TITLE: Training Manual - Entering Competitions -->
+<!-- TITLE: Training Manual - Team Manager: Team Entries -->
 
 # 1.1 Introduction
 One of the major purposes of the Federation Management System is to manage entries to competitions and assign competitors to events.
