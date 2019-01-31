@@ -8,7 +8,7 @@ In order to do this the user needs to have Team Manager privileges. Request this
 Once access privileges to the competition have been granted, you must be logged in.
 
 *Log-In Screen*
-![Logging In](/uploads/competition-entries-images/logging-in.png "Logging In")
+![Add New Team](/uploads/competition-entries-images/add-new-team.png "Add New Team")
 
 Following this, navigate to the competition in question. From the homepage, click *Competitions* and then use the search bar to narrow the results field before clicking on your competition. 
 
