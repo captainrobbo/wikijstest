@@ -7,4 +7,6 @@ We're kicking the tyres on a *wiki.js* installation.  If this works well, it mig
 Feel free to have a play.  Here's a logo...
 ![Rl Logo](/uploads/rl-logo.png "Rl Logo")
 
-Here is our [Test Plan](test-plan)...
+Here is our [Test Plan](test-plan)
+
+Edited by andy@opentrack.run logging in as Google.
