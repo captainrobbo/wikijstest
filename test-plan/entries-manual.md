@@ -8,14 +8,14 @@ In order to do this the user needs to have Team Manager privileges. Request this
 Once access privileges to the competition have been granted, you must be logged in.
 
 *Log-In Screen*
-![Log In Screen](/uploads/competition-entries-images/picture-1.png "Picture 1")
+![Logging In](/uploads/competition-entries-images/logging-in.png "Logging In")
 
 Following this, navigate to the competition in question. From the homepage, click *Competitions* and then use the search bar to narrow the results field before clicking on your competition. 
 
 N.B. If you are trying to find a previous competition, click the *Past* tab first.
 
 *Competition Micro-Site*
-![Competition Micro-Site](/uploads/competition-entries-images/picture-2.png "Picture 2")
+![Meeting Microsite](/uploads/competition-entries-images/meeting-microsite.png "Meeting Microsite")
 
 Once into your competition home-page, click *Teams*.
 
