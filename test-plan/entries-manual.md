@@ -29,7 +29,7 @@ If your club is not showing, your Team Manager privileges will show a button at 
 *Adding a New Club*
 ![Add New Team](/uploads/competition-entries-images/add-new-team.png "Add New Team")
 
-Example here is EMAC. From this page, you can view the competitors of this club and what events they are assigned to, either in Liat View or Grid View:
+Example here is EMAC. From this page, you can view the competitors of this club and what events they are assigned to, either in List View or Grid View:
 
 *List View - Competitors*
 ![Entries List View](/uploads/competition-entries-images/entries-list-view.png "Entries List View")
