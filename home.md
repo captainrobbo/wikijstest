@@ -2,7 +2,7 @@
 <!-- SUBTITLE: How to do everything -->
 
 User Guides (all in Google Docs format):
-* Club Admin Manual - how to add members, license them and enter competitions
+* [Club Admin Manual](https://docs.google.com/document/d/1PnZBJIw9H1YfLaIDMDeVRg4ePSHHpFaht_BH-6S3w8Y/edit?usp=sharing) - how to add members, license them and enter competitions
 * Federation Admin Manual - includes notes for translators
 * Results Capture Manual - for anyone managing a meeting
 * FinishLynx upload manual - as it says
