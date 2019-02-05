@@ -1,8 +1,12 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: OpenTrack Documentation -->
+<!-- SUBTITLE: How to do everything -->
 
-# New wiki under evaluation
-We're kicking the tyres on a *wiki.js* installation.  If this works well, it might be a candidate for docs.opentrack.run.   Which would be nice, because the expected contributors are not programmers.
+User Guides (all in Google Docs format):
+* Club Admin Manual - how to add members, license them and enter competitions
+* Federation Admin Manual - includes notes for translators
+* Results Capture Manual - for anyone managing a meeting
+* FinishLynx upload manual - as it says
+* UK Entry System Manual - our legacy system used for paid entries to Open meetings and County Championships
 
 Feel free to have a play.  Here's a logo...
 ![Rl Logo](/uploads/rl-logo.png "Rl Logo")
