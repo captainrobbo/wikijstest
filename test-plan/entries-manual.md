@@ -19,6 +19,8 @@ N.B. If you are trying to find a previous competition, click the *Past* tab firs
 
 Once into your competition home-page, click *Teams*.
 
+# 1.2 Team Entries
+
 From here, you can view the competitors (see CMS Manual 2.9), and the teams entered to the competition.
 
 *Teams Entered*
@@ -50,7 +52,7 @@ Clicking through the events on the left-hand side shows the age groups available
 *Age Groups Available for 400m*
 ![Available Competitors 400](/uploads/competition-entries-images/available-competitors-400.png "Available Competitors 400")
 
-# 1.2 Assigning Athletes
+# 1.3 Assigning Athletes
 To assign athletes to an event, firstly ensure that you have the correct event on the left selected and the correct age-group selected at the top. This will show all available athletes for these parameters. 
 
 Once you have chosen your athlete, to enter them do the following:
@@ -67,12 +69,12 @@ To reverse this and “De-Select” the athlete, do the opposite so either:
 * Single click on their name and click the right arrow
 
 Once completed, click **Save** at the top right periodically. 
-# 1.3 Down-Aging
+# 1.4 Down-Aging
 For Masters competitions, and various others, team managers may want or need to assign athletes out of category, for example "**down-aging**" - V55 competing with the V50s. This needs to be initially configured in the Configuation of the Competition Management. 
 
 Clicking the *Don’t filter* button will ignore the gender and age group category of the athletes and show all athletes for the given club.
 
 ![Dont Filter](/uploads/competition-entries-images/dont-filter.png "Dont Filter")
 
-# 1.4 When to complete entries
+# 1.5 When to complete entries
 This varies competition to competition. Depending on the organiser, they may “close the entries’ a few days before the competition, or even leave it open so team managers can adjust and switch people on the day. Ensure you check with the meeting director instead of leaving it too late for your entries. 
