@@ -16,13 +16,11 @@ If it shows your name or account name then you already have an account and are l
 
 Simply follow the process through, filling in the requested fields before clicking the blue *"Register"* button at the bottom. Click this only once.
 
-You should shortly (within two minutes) receive an email through from OpenTrack with a confirmation link. Please click this and your account will be confirmed and activated. Should the email not appear, please check your spam/junk email folder. If it is still not here then email *support@opentrack.run* and let us know the issue and we can fix it for you as soon as possible. 
+You should shortly (within two minutes) receive an email through from OpenTrack with a confirmation link. Please click this and your account will be confirmed and activated. Should the email not appear, please check your spam/junk email folder. If it is still not here then email *support@opentrack.run* and let us know the issue and we can fix it for you as soon as possible. Please do not go throug hthe process a second time as you may end up with duplicate accounts.
 
 # 1.3 Gaining Access
 Now that you have an account to the OpenTrack site, you will need to get access to the competition you are looking after.
 
-Simply email *support@opentrack.run* with your name and the competition you are looking after (along with any other officials, directors, helpers (who must also have accounts) etc) and let us know the access you require for each person and we can set this up for you. 
+Simply email *support@opentrack.run* with your name and the competition you are looking after (along with any other officials, directors, helpers (who must also have accounts) etc) and let us know the access required for each person and we can set this up for you. 
 
 If you competition does not exist then follow the same process and we can assist with setting this up for you. 
-
-
