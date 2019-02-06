@@ -15,3 +15,21 @@ Once you find your competition, simply click on it to navigate to its homepage.
 
 If the competition does not yet exist, head to #1.2 below.
 # 1.2 Creating a New Competition
+From the Competition homepage, click the drop down arrow on the right-hand side and choose the country your competition is set in. Following this, click the blue *New Competition* button. See the image below.
+
+*Step 1*
+![Comp Home](/uploads/create-competitions/comp-home.png "Comp Home")
+
+Following this you will be taken to the next screen. 
+
+*Step 2*
+![New Comp](/uploads/create-competitions/new-comp.png "New Comp")
+
+From the screen above, you need to fill in the options provided. 
+1. **Name (english)**: Type the name you wish to give your competition. If, for example, your event is annual, you do not need to include the year in the title.
+2. **Date**: Scroll to and select the first day of your event. At a later stage you will be able to select an end date.
+3. **Location**: Type the address of your event. You can type the postcode or street name. If a road road or X-Country, choose the start point.
+4. **Competition Type**: Choose the type of competition.
+5. **Slug**: This will form part of the URL and must be a short code. Do not include the year of the competition as this comes separately in the URL. For example, the directory for the OpenTrack Demonstration competition is *https://data.opentrack.run/x/2018/GBR/ot_demo/*. The slug is simply *"ot_demo"* with the year and country completed automatically.
+
+Once done, click the blue *Create* button at the bottom right. This will take you to the *Basic Tab* of the Competition Management System. 
