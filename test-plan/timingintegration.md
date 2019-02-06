@@ -24,7 +24,7 @@ If you have already been through this process previously, the program will be in
 Once the software has been downloaded, you can begin to enter the information to synchronise OpenTrack with FinishLynx. 
 
 *System Synchronisation*
-![Exe](/uploads/timing-integration/exe.png "Exe")
+![Exe 2](/uploads/timing-integration/exe-2.png "Exe 2")
 
 Follow the instructions on the program to synchronise the Competition Management System with FinishLynx. 
 
