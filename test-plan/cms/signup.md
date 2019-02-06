@@ -7,7 +7,7 @@ Without an account you are able to browse the site, view competitions (past and 
 # 1.2 Signing Up
 The sign up process is very quick and easy. 
 
-From the home page, or any of the pages that you found yourself on the website, there will be a button at the top right of the screen that reads *"LOGIN/SIGNUP"*. Click this and you will be taken to the following sign-up screen.
+From the home page *data.opentrack.run*, or any of the pages that you find yourself on the website, there will be a button at the top right of the screen that reads *"LOGIN/SIGNUP"*. Click this and you will be taken to the following sign-up screen.
 
 If it shows your name or account name then you already have an account and are logged in.
 
