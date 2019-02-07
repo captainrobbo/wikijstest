@@ -25,9 +25,9 @@ From here you need to complete the General Information related to your meeting. 
 14. **Altitude**: Of your meeting venue. This is usually for some track meetings held at high altitude with low air pressures.
 15. **Is demo**: Tick this if it is a demonstration competition used for training purposes.
 16. **Demo expiry date**: If your competition is a demo, choose the end date here. This is the date it will be deleted. If it is a real competition, leave this blank.
-17. **European Athletics ID**:
-18. **Tilastopaja ID**:
-19. **Age Groups Covered**: 
+17. **European Athletics ID**: This can be left blank if not already filled in. 
+18. **Tilastopaja ID**: This can be left blank if not already filled in. 
+19. **Age Groups Covered**: This can be left blank if not already filled in. 
 20. **Year**: This will already be filled in. You can edit it if required.
 21. **Organiser**: Select the organisation looking after the competition. Start typing and the options will auto-fill. If your option does not appear then contact us on *support@opentrack.run*.
 22. **League**: Select from the dropdown the league your competition is in. This will be updated as we begin to look after more so request at *support@opentrack.run* for us to add them if required.
