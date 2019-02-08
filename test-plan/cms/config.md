@@ -18,4 +18,11 @@ The information below shows the steps required to create the event configuration
 5. **Auto-age Groups**: This will calculate and display age groups based on athletes date of birth (e.g. U20, SEN, etc). Click this is you want them displayed.
 6. **Use vets age groups**: This will display vets age groups (e.g. V60, V65, etc) for competitions, which is especially useful for masters events with multiple categories. 
 7. **Allow competing out of category**: Unless you require athletes to down-age (Masters) or up-age (youth) then **leave this unticked**.
-8. **Display category rankings**: 
+8. **Display category rankings**: This will show the category (age and gender) as well as the age group on the competitor list and results pages. For example, V40 & M40 are both displayed. 
+9. **Team Types**: Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
+10. **Exempt date of birth**: Our Competitor list wants dates of birth to be entered. Tick this if you expect to enter some athletes without this information.
+11. **Allow relay team additions/removals**: 
+12. **Require athlete checkins**: This required athletes to be manually checked into their event once they arrive. When ticked it creates a *"Tick"* button in the Competitors tab for an organiser to use. 
+13. **Guest countries**: This is still in development and does not yet work. 
+
+Whenever you are ready to save your changes, click the blue *Save* button at the bottom right. 
