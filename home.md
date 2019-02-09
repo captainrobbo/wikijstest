@@ -8,5 +8,14 @@ User Guides (all in Google Docs format):
 * [FinishLynx upload manual](https://docs.google.com/document/d/1s_bEefdVQuqWkS8oTnjiWiYEkRPJK0oop8M_VUY4ya0/edit?usp=sharing) - as it says
 * [UK Entry System Manual](https://docs.google.com/document/d/14S2dC9I3uhIsIeN72yCqsZ0_cGSqHIphUC2HDSMexfI/edit?usp=sharing) - our legacy system used for paid entries to Open meetings and County Championships
 
-New Manuals (in HTML format)
-* [PhotoFinish](/manuals/cms/timingintegration)
+Competition Management (in HTML format)
+* [Sign up to OpenTrack](/manuals/cms/signup)
+* [Create a competition](/manuals/cms/create-comp)
+* [Add a new venue](/manuals/cms/addvenue)
+* [PhotoFinish](/manuals/cms/timingintegration) - operator's guide
+* [Basics tab](/manuals/cms/timingintegration)
+* [Config tab](/manuals/cms/config)
+* [Events tab](/manuals/cms/events)
+* [Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
+
+
