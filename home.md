@@ -8,7 +8,3 @@ User Guides (all in Google Docs format):
 * [FinishLynx upload manual](https://docs.google.com/document/d/1s_bEefdVQuqWkS8oTnjiWiYEkRPJK0oop8M_VUY4ya0/edit?usp=sharing) - as it says
 * [UK Entry System Manual](https://docs.google.com/document/d/14S2dC9I3uhIsIeN72yCqsZ0_cGSqHIphUC2HDSMexfI/edit?usp=sharing) - our legacy system used for paid entries to Open meetings and County Championships
 
-
-Here is our [Test Plan for the Wiki](test-plan)
-
-Edited by andy@opentrack.run logging in as Google.
