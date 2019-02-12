@@ -21,7 +21,7 @@ The information below shows the steps required to create the event configuration
 8. **Display category rankings**: This will show the category (age and gender) as well as the age group on the competitor list and results pages. For example, V40 & M40 are both displayed. 
 9. **Team Types**: Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
 10. **Exempt date of birth**: Our Competitor list wants dates of birth to be entered. Tick this if you expect to enter some athletes without this information.
-11. **Allow relay team additions/removals**: 
+11. **Allow relay team additions/removals**: If your competition will have relay events and require Team Managers to select and enter their athletes then tick this button. 
 12. **Require athlete checkins**: This required athletes to be manually checked into their event once they arrive. When ticked it creates a *"Tick"* button in the Competitors tab for an organiser to use. 
 13. **Guest countries**: This is still in development and does not yet work. 
 
