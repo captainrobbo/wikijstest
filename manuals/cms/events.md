@@ -41,9 +41,9 @@ Complete the fields as follows:
 **r3_time**: Type which time round three will start. Use a 24 hour format. For example, 13:25. 
 *N.B.*: the *"r_day"* and *"r_time"* options will repeat as necessary accoring to **rounds**.
 **max_per_heat**: Type the maximum number of athletes allowed/possible in each heat.
-**Seeding method**: Choose which method of seeding (from the options available) you want for this event.
-**cut_after_round**: Input after which round competitors will be cut. 
-**cut_survivors**: Input how many athletes continue after the cut.
+**Seeding method**: Choose which method of seeding (from the options available) you want for this event. **This is for track events.**
+**cut_after_round**: Input after which round competitors will be cut. **This is for field events only.**
+**cut_survivors**: Input how many athletes continue after the cut. **This is for field events only.**
 **Team Types**:  Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
 
 When finished, click the blue *Save* button at the bottom right of the page. 
