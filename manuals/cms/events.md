@@ -42,8 +42,10 @@ Complete the fields as follows:
 *N.B.*: the *"r_day"* and *"r_time"* options will repeat as necessary accoring to **rounds**.
 **max_per_heat**: Type the maximum number of athletes allowed/possible in each heat.
 **Seeding method**: Choose which method of seeding (from the options available) you want for this event. **This is for track events.**
-**cut_after_round**: Input after which round competitors will be cut. **This is for field events only.**
-**cut_survivors**: Input how many athletes continue after the cut. **This is for field events only.**
+**cut_after_round**: Input after which round competitors will be cut. **This is for field events only. For example, typically in Long Jump, competitors will cut cut after 3 jumps (i.e. 3 rounds).**
+**cut_survivors**: Input how many athletes continue after the cut. **This is for field events only.** 
 **Team Types**:  Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
+
+***N.B. Currently, progression from heats to finals must be done manually.***
 
 When finished, click the blue *Save* button at the bottom right of the page. 
