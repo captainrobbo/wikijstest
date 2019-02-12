@@ -18,12 +18,32 @@ The columns are defined and must be completed as follows:
 **Rounds**: This column dictates the structure of the event and denotes whether there will be just one race or heats and finals. The example given in the screenshot above shows that most events have one round but the male 100m has 4 heats, 2 semi-finals and 1 final. They are separated by commas (no spaces). The example in the above screenshot would suggest 4 heats (8 competitors in each), 2 semi-finals (8 again), 1 final (8 again). When your event has rounds, you edit the *Advanced Configuration* to specify further details. 
 **Day**: This field dictates what day of the competition the event takes place in. If the competition is just one day, then “1” is put for all events. If your event takes place over multiple days (e.g. 100m in the example screenshot) put the day of the first event/discipline. 
 **Time**: This follows the structure of the timetable of your competition. Times are entered in 24hour format, i.e. 13:15. As with the day, if your event takes place over multiple days (e.g. 100m in the example screenshot) put the day of the first event/discipline. 
-**Parent**: This final column is for multi-eventers, i.e. heptathletes and decathletes. For these, enter all events within the heptathlon as the same number, as with the example below.
+**Parent**: This final column is for multi-eventers, i.e. heptathletes pentathletes and decathletes. For these, enter all events within the decathlon as the same number, as with the example below.
 
-When your event has rounds, you edit the *Advanced Configuration* to specify further details. 
+*Multi_event Competitions*
+![Multievent](/uploads/events/multievent.png "Multievent")
 # 1.2 Advanced Configuration
-If you scroll to the bottom of the *Events Grid* then you will find the *Advanced Configuration* options available. Click on the event that you wish to edit. In the example below we have chosen Male 100m.
+When your event has rounds, you edit the *Advanced Configuration* to specify further details. 
+
+If you scroll to the bottom of the *Events Grid* then you will find the *Advanced Configuration* options available. This is for for events with multiple rounds or heats. Click on the event that you wish to edit. In the example below we have chosen Male 100m.
 
 *Events - Advanced Configuration*
 ![Event Adv](/uploads/events/event-adv.png "Event Adv")
 
+Complete the fields as follows:
+**name**: This will be auto-filled with whatever you called the competition in the grid above.
+**rounds**: This will be autofilled with however you defined the rounds in the grid above.
+**day**: This will be autofilled with whichever day of the competition you listed as the first day of this event in the grid above. 
+**r1_time**: This will be autofilled with whatever time you stipulated as the first round taking place in the grid above. 
+**r2_day**: Type which day round two will take place on.
+**r2_time**: Type which time round two will start. Use a 24 hour format. For example, 13:25. 
+**r3_day**: Type which day round three will take place on.
+**r3_time**: Type which time round three will start. Use a 24 hour format. For example, 13:25. 
+*N.B.*: the *"r_day"* and *"r_time"* options will repeat as necessary accoring to **rounds**.
+**max_per_heat**: Type the maximum number of athletes allowed/possible in each heat.
+**Seeding method**: Choose which method of seeding (from the options available) you want for this event.
+**cut_after_round**: Input after which round competitors will be cut. 
+**cut_survivors**: Input how many athletes continue after the cut.
+**Team Types**:  Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
+
+When finished, click the blue *Save* button at the bottom right of the page. 
