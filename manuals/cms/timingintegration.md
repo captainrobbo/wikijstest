@@ -1,5 +1,6 @@
-<!-- TITLE: Training Manual - Meeting Organiser: Timing Integration -->
+<!-- TITLE: Training Manual - Results Recording - Track Events -->
 
+<!-- SUBTITLE: Timing Integration -->
 # 1.1 Introduction
 The purpose of the Timing Integration management screen is to allow the meeting organiser to synchronise OpenTrack's system with the PhotoFinish technology being used for the competition. One of the major benefits of this is that it really limits the work required for the meeting organiser and PhotoFinish engineer and also enables quick-to-view results (unofficial until marked otherwise) for athletes and spectators.
 
