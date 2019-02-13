@@ -58,7 +58,7 @@ For Masters competitions, it is also possible to input an age group if your comp
 
 **Tab 3 - Advanced**
 
-The final tab is more for Federation Management users and enter names in a local language (Cyrillic for example) as well as entering a competitor's Federation License number.
+The final tab is more for Federation Management users. It allows you to enter names in a local language (Cyrillic for example) as well as entering a competitor's Federation License number.
 
 It is also possible to mark an athlete as a non-scorer in a given competition here.
 
