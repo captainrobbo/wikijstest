@@ -49,6 +49,17 @@ If not in the current system then the details will need to be added manually. If
 **Team**: Select the relevant box. If *Club/Team* then you can begin to type the club name and the options should appear to be clicked on.
 
 **Tab 2 - Events entered**
+The second tab, seen below, is *Events entered*. From the list of events inputted in the Events tab, you can select the events your competitor is entering. You can click on multiple events and inut other information if desired, such as *Personal Best* and *Qualifying Performance*. 
+
+For Masters competitions, it is also possible to input an age group if your competitor is down-ageing. 
 
 *Add Competitor Pop-up - Events*
 ![Add Competitor Event](/uploads/competitors/add-competitor-event.png "Add Competitor Event")
+
+**Tab 3 - Advanced**
+
+The final tab is more for Federation Management users and enter names in a local language (Cyrillic for example) as well as entering a competitor's Federation License number.
+
+It is also possible to mark an athlete as a non-scorer in a given competition here.
+
+***Whenever you are finished, regardless of the tab you are on, either click the blue "Save" or "Save and add another"  (if you have more competitors to enter) button.***
