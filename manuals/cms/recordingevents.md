@@ -19,7 +19,7 @@ From the following screen, below, choose the relevant event that you wish to rec
 
 *Event Selection*
 ![Eventselection](/uploads/recording-field-events/eventselection.png "Eventselection")
-
+# 1.3 Vertical Jumps
 Once you have opened the event in question you will see the list of competitors. However, if this is the first time this event has been opened then the competitors will not yet be loaded. To do this click the blue *Fetch Start List* button at the top right, as seen below. This will generate a random order of competitors. If you require a specific order then you can click the *"Edit"* button located to the left of the orange *"Record"*. Click here to learn how this works.
 
 If you require to remove the data and start again, click the red *Delete Data* button at the bottom left. 
@@ -52,3 +52,31 @@ The new height will now be displayed at the top of the competitors, with the jum
 ![Startrecord](/uploads/recording-field-events/startrecord.png "Startrecord")
 
 After clicking this button you will be shown the three relevant options: 
+
+*Recording Options*
+![Record](/uploads/recording-field-events/record.png "Record")
+
+R = Retire
+O = Over
+X = Fail
+
+In this instance we are going to say that David passed first time. 
+
+*Passed First Time*
+![Passedfirsttime](/uploads/recording-field-events/passedfirsttime.png "Passedfirsttime")
+
+Below are some other options showing the display format depending on how the athletes do:
+
+*Failed at First Attempt*
+![Failedfirsttime](/uploads/recording-field-events/failedfirsttime.png "Failedfirsttime")
+
+*Retired at First Jump*
+![Retiredfirsttime](/uploads/recording-field-events/retiredfirsttime.png "Retiredfirsttime")
+
+*Failed at Second Attempt*
+![Twofails](/uploads/recording-field-events/twofails.png "Twofails")
+
+*Second Height Entered*
+![Secondheight](/uploads/recording-field-events/secondheight.png "Secondheight")
+
+
