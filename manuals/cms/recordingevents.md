@@ -84,4 +84,8 @@ Below are some other options showing the display format depending on how the ath
 ![Secondheight](/uploads/recording-field-events/secondheight.png "Secondheight")
 
 # 1.4 Horizontal Disciplines
+For horizontal disciplines the method is exactly the same until the point up after you have *Fetched Start List* and clicked *Record*. 
+
+With the horizontal disciplines, after clicking *Record* you will be met with the following screen:
+
 
