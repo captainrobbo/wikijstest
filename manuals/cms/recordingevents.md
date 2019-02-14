@@ -19,7 +19,7 @@ From the following screen, below, choose the relevant event that you wish to rec
 
 *Event Selection*
 ![Eventselection](/uploads/recording-field-events/eventselection.png "Eventselection")
-# 1.3 Vertical Jumps
+
 Once you have opened the event in question you will see the list of competitors. However, if this is the first time this event has been opened then the competitors will not yet be loaded. To do this click the blue *Fetch Start List* button at the top right, as seen below. This will generate a random order of competitors. If you require a specific order then you can click the *"Edit"* button located to the left of the orange *"Record"*. Click here to learn how this works.
 
 If you require to remove the data and start again, click the red *Delete Data* button at the bottom left. 
@@ -35,6 +35,10 @@ Now you have the list of competitors, you can start to enter results as the athl
 ![Clickrecord](/uploads/recording-field-events/clickrecord.png "Clickrecord")
 
 Clicking *Record* will take you to an editable screen where, at the beginning, all competitors are highlighted in green. This denotes they have not suffered any fouls, retired or been disqualified. 
+
+Depending on whether the field event is a vertical or horizontal measurement, the method of input differs. We will look at Vertical first.
+
+# 1.3 Vertical Disciplines
 
 The first step to take is to raise the bar height from 0.00cm. To do this click the blue *Raise* button as seen below. 
 
