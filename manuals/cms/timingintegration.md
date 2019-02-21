@@ -7,7 +7,7 @@ The purpose of the Timing Integration management screen is to allow the meeting 
 
 Currently, as of 5th February 2019, integration has been completed for two of the major system's: FinishLynx & MacFinish/TimeTronics. More systems will be added with time and the manual and Competition Management both updated. 
 
-	# 1.2 Set-Up
+# 1.2 Set-Up
 From the Competition Management screen of the meeting in question, choose *Timing Integration* on the options panel running down the left of the screen. The screen that loads will show you the available options that can currently be synchronised with. Simply click the relevant one. In this instance we are choosing *FinishLynx.* All PhotoFinish technology will synchronise the same way with OpenTrack.
 
 *Timing-Integration Selection*
