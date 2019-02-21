@@ -2,11 +2,12 @@
 
 # 1.1 Introduction
 
-The purpose of the field recording screens is to ease the workload for Meeting Organisers & Officials and to provide a better experience for athletes & spectators. The entry input is easy and instantaneous and provides the perfect way to view how field events are unfolding. 
+The purpose of the field recording screens is to ease the workload for Meeting Organisers & Officials and to provide a better experience for athletes & spectators. 
 
-Track events are covered here for the manual input and here for automatic input via Timing Integration.
+Results can be inputted during the event; this is easy and instantaneous and provides the perfect way to view how field events are unfolding. 
 
-# 1.2 Initial Steps
+Alternatively results can be inputted in bulk after the competition.
+# 1.2 Live Recording
 
 As with everything, please ensure you are logged in and have appropriate access privileges. 
 
@@ -38,7 +39,7 @@ Clicking *Record* will take you to an editable screen where, at the beginning, a
 
 Depending on whether the field event is a vertical or horizontal measurement, the method of input differs. We will look at Vertical first.
 
-# 1.3 Vertical Disciplines
+	# 1.21 Vertical Disciplines
 
 The first step to take is to raise the bar height from 0.00cm. To do this click the blue *Raise* button as seen below. 
 
@@ -83,7 +84,8 @@ Below are some other options showing the display format depending on how the ath
 *Second Height Entered*
 ![Secondheight](/uploads/recording-field-events/secondheight.png "Secondheight")
 
-# 1.4 Horizontal Disciplines
+	# 1.22 Horizontal Disciplines
+	
 For horizontal disciplines the method is exactly the same until the point up after you have *Fetched Start List* and clicked *Record*. For this example we are using Shot Put.
 
 With the horizontal disciplines, after clicking *Record* you will be met with the following screen:
