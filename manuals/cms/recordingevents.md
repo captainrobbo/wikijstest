@@ -114,4 +114,4 @@ For events, such as Long Jump, where wind is recorded in the results, you follow
 *Recording Wind Speed*
 ![Wind](/uploads/horizontal/wind.png "Wind")
 
-Use the same process to record the wind speed as you do to enter the dustance.
+Use the same process to record the wind speed as you do to enter the distance.
