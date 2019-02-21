@@ -84,8 +84,34 @@ Below are some other options showing the display format depending on how the ath
 ![Secondheight](/uploads/recording-field-events/secondheight.png "Secondheight")
 
 # 1.4 Horizontal Disciplines
-For horizontal disciplines the method is exactly the same until the point up after you have *Fetched Start List* and clicked *Record*. 
+For horizontal disciplines the method is exactly the same until the point up after you have *Fetched Start List* and clicked *Record*. For this example we are using Shot Put.
 
 With the horizontal disciplines, after clicking *Record* you will be met with the following screen:
 
+*Competitor List*
+![Choose Competitor](/uploads/horizontal/choose-competitor.png "Choose Competitor")
 
+From this screen, choose the athlete that you want to record a distance for by clicking on their name. Once done, you will be met with the orange *Record* button as below. Click this to record the distance.
+
+*Choose a Competitor to Record*
+![Click Record](/uploads/horizontal/click-record.png "Click Record")
+
+Once the *Record* button has been clicked, the recording box will pop up. 
+
+*Recording a Distance*
+![Set Distance](/uploads/horizontal/set-distance.png "Set Distance")
+
+Click in the *Distance* box to bring up the keyboard and type in the distance thrown by the athlete. 
+
+Click the blue Tick at the bottom right to record the distance.
+
+If you clicked on the wrong athlete, choose the white X.
+
+If the athlete recorded a foul, click the red F.
+
+For events, such as Long Jump, where wind is recorded in the results, you follow the same process but when you click the *Record* button, the following screen appears:
+
+*Recording Wind Speed*
+![Wind](/uploads/horizontal/wind.png "Wind")
+
+Use the same process to record the wind speed as you do to enter the dustance.
