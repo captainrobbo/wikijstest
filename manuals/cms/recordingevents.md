@@ -1,4 +1,4 @@
-<!-- TITLE: Training Manual - Live Results Recording - Field Events -->
+<!-- TITLE: Training Manual - Results Recording - Field Events -->
 
 # 1.1 Introduction
 
@@ -117,3 +117,5 @@ For events, such as Long Jump, where wind is recorded in the results, you follow
 ![Wind](/uploads/horizontal/wind.png "Wind")
 
 Use the same process to record the wind speed as you do to enter the distance.
+
+# 1.3 Post Event Results Input 
