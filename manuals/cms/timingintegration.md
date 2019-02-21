@@ -43,3 +43,10 @@ Once everything is green:
 Once steps 1 to 7 are completed the system now looks to the folder in step 2 every few seconds. Whenever a .lif file is saved into the folder at at the end of each race the program picks this up and automatically uploads it to the front end of the competition, ready for athletes and spectators to view. This means that results are available to view just a few seconds after the event has finished. The results are marked as unofficial until manually changed by the Race Director.
 
 # 1.2 Results Input - Post Race
+If your competition does not have PhotoFinish or, for whatever reason, you are unable to synchronise the PhotoFinish system to OpenTrack, then you are still able to input data from your races onto the OpenTrack website to show results. This is still a very quick process but it will not be immediate after the race has finished. The method is similar to the Field results input when not doing live recording. 
+
+As with most recording input screens, from your Competition homepage, click *Start Lists / Results*. From the resulting screen, choose the event in question. In this example we have selected a 200m race. Once you have clicked your event, you will be presented with the screen below. In this race, the competitors have already been seeded, which is why they are showing. If you wish to seed your athletes click here to learn how. Alternatively, if you do not care about the lane order, click the blue *Fetch Start List* button at the top right. 
+
+*Competitor List - Seeded*
+![Click Edit](/uploads/track-results/click-edit.png "Click Edit")
+
