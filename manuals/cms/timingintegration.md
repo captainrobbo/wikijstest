@@ -57,7 +57,7 @@ Once you have a list of athletes showing in the event click the *Edit* button at
 *Editing Screen*
 ![Edit Screen](/uploads/track-results/edit-screen.png "Edit Screen")
 
-This is screen where the results are input. We have highlighted the section that needs to be completed. The grid works the same as an Excel spreadsheet so if your results are in this format then they can be simply copied and pasted in. 
+This is screen where the results are input. We have highlighted the section that needs to be completed. The grid works the same as an Excel spreadsheet so if your results are in this format then they can be simply copied and pasted in. Alternatively, just type them in.
 
 *Results Input*
 ![Paste Results](/uploads/track-results/paste-results.png "Paste Results")
