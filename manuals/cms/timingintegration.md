@@ -68,7 +68,7 @@ Performance must be input in the following format:
 63.5
 1:03.5 - equivalent to 63.5, first digit assumed to be minutes
 2:03 - assumed to be an 800m time of 2 minutes, and not a Marathon, because only one colon
-2:02:57 - the marathon world record, two colons so contains hours
+2:02:57 - a marathon time, two colons so contains hours
 73:15 - a half marathon time, equivalent to 1:03:15
 
 If you are an ultrarunners, you will need to count up the hours!
