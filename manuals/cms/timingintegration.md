@@ -86,4 +86,4 @@ Clicking the event title at the top of the page (in blue) it will take you to th
 
 *Results*
 ![Results](/uploads/track-results/results.png "Results")
-
+ To make further changes, click the *Edit Results* button on the right. 
