@@ -1,4 +1,4 @@
-<!-- TITLE: Training Manual - Results Recording - Field Events -->
+<!-- TITLE: Training Manual - Live Results Recording - Field Events -->
 
 # 1.1 Introduction
 
