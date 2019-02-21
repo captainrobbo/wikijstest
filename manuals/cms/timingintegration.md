@@ -1,13 +1,11 @@
 <!-- TITLE: Training Manual - Results Recording - Track Events -->
 
-
-<!-- SUBTITLE: Timing Integration -->
-# 1.1 Introduction
+# 1.1 Timing Integration
 The purpose of the Timing Integration management screen is to allow the meeting organiser to synchronise OpenTrack's system with the PhotoFinish technology being used for the competition. One of the major benefits of this is that it really limits the work required for the meeting organiser and PhotoFinish engineer and also enables quick-to-view results (unofficial until marked otherwise) for athletes and spectators.
 
 Currently, as of 5th February 2019, integration has been completed for two of the major system's: FinishLynx & MacFinish/TimeTronics. More systems will be added with time and the manual and Competition Management both updated. 
 
-# 1.2 Set-Up
+	# 1.12 Set-Up
 From the Competition Management screen of the meeting in question, choose *Timing Integration* on the options panel running down the left of the screen. The screen that loads will show you the available options that can currently be synchronised with. Simply click the relevant one. In this instance we are choosing *FinishLynx.* All PhotoFinish technology will synchronise the same way with OpenTrack.
 
 *Timing-Integration Selection*
@@ -22,7 +20,7 @@ Some computers will bring up a security alert when attempting to download the so
 
 If you have already been through this process previously, the program will be installed on your PC so simply locate and open it. 
 
-# 1.3  Synchronisation
+	# 1.13  Synchronisation
 Once the software has been downloaded, you can begin to enter the information to synchronise OpenTrack with FinishLynx. 
 
 *System Synchronisation*
@@ -43,3 +41,5 @@ Once everything is green:
 7. Now click the button that reads *"Click to begin uploading"*. 
 
 Once steps 1 to 7 are completed the system now looks to the folder in step 2 every few seconds. Whenever a .lif file is saved into the folder at at the end of each race the program picks this up and automatically uploads it to the front end of the competition, ready for athletes and spectators to view. This means that results are available to view just a few seconds after the event has finished. The results are marked as unofficial until manually changed by the Race Director.
+
+# 1.2 Results Input - Post Race
