@@ -1,11 +1,13 @@
 <!-- TITLE: Training Manual - Results Recording - Track Events -->
 
-# 1.1 Timing Integration
+# 1.1 Introduction
+There are two methods of recording results are track events - simply put they are automatic and manual results input. However, both are relatively fast and provide minimal work for officials. 
+# 1.2 Automatic Results Input - Timing Integration
 The purpose of the Timing Integration management screen is to allow the meeting organiser to synchronise OpenTrack's system with the PhotoFinish technology being used for the competition. One of the major benefits of this is that it really limits the work required for the meeting organiser and PhotoFinish engineer and also enables quick-to-view results (unofficial until marked otherwise) for athletes and spectators.
 
 Currently, as of 5th February 2019, integration has been completed for two of the major system's: FinishLynx & MacFinish/TimeTronics. More systems will be added with time and the manual and Competition Management both updated. 
 
-	# 1.12 Set-Up
+	# 1.22 Set-Up
 From the Competition Management screen of the meeting in question, choose *Timing Integration* on the options panel running down the left of the screen. The screen that loads will show you the available options that can currently be synchronised with. Simply click the relevant one. In this instance we are choosing *FinishLynx.* All PhotoFinish technology will synchronise the same way with OpenTrack.
 
 *Timing-Integration Selection*
@@ -20,7 +22,7 @@ Some computers will bring up a security alert when attempting to download the so
 
 If you have already been through this process previously, the program will be installed on your PC so simply locate and open it. 
 
-	# 1.13  Synchronisation
+	# 1.23  Synchronisation
 Once the software has been downloaded, you can begin to enter the information to synchronise OpenTrack with FinishLynx. 
 
 *System Synchronisation*
@@ -42,7 +44,7 @@ Once everything is green:
 
 Once steps 1 to 7 are completed the system now looks to the folder in step 2 every few seconds. Whenever a .lif file is saved into the folder at at the end of each race the program picks this up and automatically uploads it to the front end of the competition, ready for athletes and spectators to view. This means that results are available to view just a few seconds after the event has finished. The results are marked as unofficial until manually changed by the Race Director.
 
-# 1.2 Results Input - Post Race
+# 1.3 Manual Results Input - Post Race
 If your competition does not have PhotoFinish or, for whatever reason, you are unable to synchronise the PhotoFinish system to OpenTrack, then you are still able to input data from your races onto the OpenTrack website to show results. This is still a very quick process but it will not be immediate after the race has finished. The method is similar to the Field results input when not doing live recording. 
 
 As with most recording input screens, from your Competition homepage, click *Start Lists / Results*. From the resulting screen, choose the event in question. In this example we have selected a 200m race. Once you have clicked your event, you will be presented with the screen below. In this race, the competitors have already been seeded, which is why they are showing. If you wish to seed your athletes click here to learn how. Alternatively, if you do not care about the lane order, click the blue *Fetch Start List* button at the top right. 
