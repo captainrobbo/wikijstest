@@ -50,3 +50,40 @@ As with most recording input screens, from your Competition homepage, click *Sta
 *Competitor List - Seeded*
 ![Click Edit](/uploads/track-results/click-edit.png "Click Edit")
 
+Once you have a list of athletes showing in the event click the *Edit* button at the top, which is highlighted above. This will give you the following screen. 
+
+*Editing Screen*
+![Edit Screen](/uploads/track-results/edit-screen.png "Edit Screen")
+
+This is screen where the results are input. We have highlighted the section that needs to be completed. The grid works the same as an Excel spreadsheet so if your results are in this format then they can be simply copied and pasted in. 
+
+*Results Input*
+![Paste Results](/uploads/track-results/paste-results.png "Paste Results")
+
+The only columns that need to be completed are *"Bib"* and *"Performance"*. From the Competitor list when "managing" the competition, the system knows which bib number matches which athlete so name is not necessary to input. 
+
+Performance must be input in the following format:
+9.58
+58.5
+63.5
+1:03.5 - equivalent to 63.5, first digit assumed to be minutes
+2:03 - assumed to be an 800m time of 2 minutes, and not a Marathon, because only one colon
+2:02:57 - the marathon world record, two colons so contains hours
+73:15 - a half marathon time, equivalent to 1:03:15
+
+If you are an ultrarunners, you will need to count up the hours!
+
+Once you input the *"Bib"* and *"Performance"*, click *Save* (either bottom left or bottom right). You will see the order autocomplete.
+
+It is possible to view more information from this screen. As you can see below, by checking the box marked *Show Athlete Details* you can view the competitor names, category and club. 
+
+*Results Details*
+![Wind Speed](/uploads/track-results/wind-speed.png "Wind Speed")
+
+Furthermore, as seen above, should you be editing an event that warrants it, you can input a wind speed that will show on the *Results* page. 
+
+Clicking the event title at the top of the page (in blue) it will take you to the Results page of the event. The image below shows the screen as someone who has access privileges will view it. 
+
+*Results*
+![Results](/uploads/track-results/results.png "Results")
+
