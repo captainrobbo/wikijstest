@@ -153,4 +153,14 @@ Clicking the name of the competition at the top left in blue will take you back 
 
 *Results Display*
 ![Result Display](/uploads/fieldevent-postevent/result-display.png "Result Display")
+	
+For Long Jump & Triple Jump there is also the option to input a wind speed per round. Follow the same process as above with the Shot Put but when you are in the *Edit* screen and have clicked *Details* you will see the format as below:
+
+*Entering Wind Speed*
+![Windinput](/uploads/fieldevent-postevent/windinput.png "Windinput")
+
+This will show in the results display in brackets underneath each competitor's effort.
+
+*Wind Speed Display*
+![Winddisplay](/uploads/fieldevent-postevent/winddisplay.png "Winddisplay")
 
