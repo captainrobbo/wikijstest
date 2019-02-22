@@ -119,3 +119,8 @@ For events, such as Long Jump, where wind is recorded in the results, you follow
 Use the same process to record the wind speed as you do to enter the distance.
 
 # 1.3 Post Event Results Input 
+
+If, for whatever reason, you are unable to do live recording during the event, then the data can still be input from field cards immediately afterwards. This will provide quick results for spectators and instant updates of scoring, if applicable. The method is also very easy, thereby easing workload for officials. 
+
+
+
