@@ -2,7 +2,7 @@
 
 The events tab is, as you would expect, the place to create all the events that your competition is going to host.
 # 1.1 Entering Events
-The entry method is set up as a simple grid table meaning you can create a spreadsheet and simply copy and paste it in.
+The entry method is set up as a simple grid table meaning you can create a spreadsheet and simply copy and paste it in. Simply head to the Events tab and either paste in your events or type them in.
 
 *Events Table*
 ![Event Tab](/uploads/events/event-tab.png "Event Tab")
