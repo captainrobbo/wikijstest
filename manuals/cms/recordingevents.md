@@ -122,5 +122,35 @@ Use the same process to record the wind speed as you do to enter the distance.
 
 If, for whatever reason, you are unable to do live recording during the event, then the data can still be input from field cards immediately afterwards. This will provide quick results for spectators and instant updates of scoring, if applicable. The method is also very easy, thereby easing workload for officials. 
 
+As with most recording input screens, from your Competition homepage, click Start Lists / Results. From the resulting screen, choose the event in question. In this example we have selected a Shot Put competition. Once you have clicked your event, you will be presented with the screen below.
 
+*Shot Put Event*
+![Load List](/uploads/fieldevent-postevent/load-list.png "Load List")
+
+In this example, no competitors have been loaded. If you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click here to learn how.
+
+*Competitor List*
+![Competitor List](/uploads/fieldevent-postevent/competitor-list.png "Competitor List")
+
+Once the competitors are loaded in and you are ready to enter the results, click the highlighted *Edit* button. This will present you with the following screen:
+
+*Results Edit Screen*
+![Edit Screen](/uploads/fieldevent-postevent/edit-screen.png "Edit Screen")
+
+The default view from this screen is just the *Summary*, as highlighted in blue. This allows you to just enter the best result per athlete. To enter all the rounds, click the *Details* button.
+
+*Edit Details*
+![Edit Details](/uploads/fieldevent-postevent/edit-details.png "Edit Details")
+
+Once you have clicked *Details* you will be shown all the available rounds. Simply paste the results in from a pre-populated speadsheet or type them in. The system knows which athlete corresponds to which bib so just match the results to the bib. Once you click *Save* then the *Order* column will automatically populate. Finally, it is possible to enter the weight of the Shot for each athlete in here.
+
+You can also click the *Show Athlete Details* button to view more information, such as the name and club. 
+
+*Show Athlete Details*
+![Showathletedetails](/uploads/fieldevent-postevent/showathletedetails.png "Showathletedetails")
+
+Clicking the name of the competition at the top left in blue will take you back to the results output. Here you can see the display of results, including athlete names, clubs, rounds, best efforts and weight thrown.
+
+*Results Display*
+![Result Display](/uploads/fieldevent-postevent/result-display.png "Result Display")
 
