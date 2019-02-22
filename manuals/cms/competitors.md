@@ -1,4 +1,4 @@
-<!-- TITLE: Competitors -->
+<!-- TITLE: Training Manual - Competitors Tab-->
 
 The competitors tab is where event organisers (rather than Team Managers) can be entered in prior to the competition or on the day. Competitors can either be added in bulk or individually. 
 # Bulk Entry Input
