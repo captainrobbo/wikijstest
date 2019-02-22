@@ -1,4 +1,4 @@
-<!-- TITLE: Training Manual - Events -->
+<!-- TITLE: Training Manual - Events Tab-->
 
 The events tab is, as you would expect, the place to create all the events that your competition is going to host.
 # 1.1 Entering Events
