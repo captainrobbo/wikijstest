@@ -23,6 +23,7 @@ Navigate to the event, and look for the *By Lane* button.  This lets you input r
 ![Relay Input 1](/uploads/track-results/relay-input-1.png "Relay Input 1")
 
 If you know the runner names at this stage (and often, we do not until after the race), you can input the runners' bib numbers separated by commas, like this:
+![Relay Runner Input](/uploads/track-results/relay-runner-input.png "Relay Runner Input")
 
 The names will be filled in for you when you save.  Our system checks that you have four valid bibs (or however many relay legs there are), corresponding to actual competitors; if this is not so, all 4 will disappear.
 
