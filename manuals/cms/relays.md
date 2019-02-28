@@ -13,7 +13,7 @@ If you just have one team for each club, do nothing more.  If you have A and B r
 
 ## Ad-hoc and non-scoring teams
 At the Loughborough International, we had proper teams contesting the match, and we also had a number of relay teams thrown together shortly before the match.  The organisers therefore set up some extra match teams, named IND1 to IND9, for individuals.  At club level, you might ask the runners to make up a code and name.  Below we show an example.
-
+![Teams 2](/uploads/track-results/teams-2.png "Teams 2")
 
 
 It is important to clear or empty the *Match* field, which will remove them from any scores.  Otherwise, you'd end up with the scoring reports showing an extra club doing rather badly, as it scored zero in all other events.  This shows the team-editing dialog:
