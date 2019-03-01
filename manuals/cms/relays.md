@@ -30,13 +30,15 @@ If you know the runner names at this stage (and often, we do not until after the
 The names will be filled in for you when you save.  Our system checks that you have four valid bibs (or however many relay legs there are), corresponding to actual competitors; if this is not so, all 4 will disappear.
 
 # Inputting results
-There are two web forms for results input. *By Lane* will not necessarily be in time order, but will show all teams set up.  *Edit* looks almost identical, but it only shows relay results with a time assigned to them - it is more useful for inputting the results of road or cross-country relays with many teams, when you always go winner first.  The picture below shows the form after saving once, with all the team and runner names filled in for you.
+There are two web forms for results input. *By Lane* will not necessarily be in time order, but will show all teams set up.  *Edit* looks almost identical, but it only shows relay results with a time assigned to them - it is more useful for inputting the results of road or cross-country relays with many teams, when you always go winner first and might be pasting from a long spreadsheet.  The picture below shows the form after saving once, with all the team and runner names filled in for you.
 ![Relay Input 3](/uploads/track-results/relay-input-3.png "Relay Input 3")
 
-## Runner names
-Sometimes you don't know who ran until later - especially if athletes swap legs and reserves in the warmup. You can fill in the runners column at any time, with a comma-separated list of bibs.  You MUST have the right number of bibs and they must match competitors - for a four-person relay, it is not possible to input 3 bibs.
+## Runner names after the event
+Sometimes you don't know who ran until later - especially if athletes swap legs and reserves in the warmup. You can fill in the runners column at any time, with a comma-separated list of bibs.  You MUST have the right number of bibs and they must match competitors - for a four-person relay, it is not possible to input 3 bibs.  See the picture above.
 
 ## Splits
 Splits are optional and can, again, be added later.  We need *split times*, i.e. *cumulative* - and not *lap times*.  Input one less than the number of legs.  Thus, for a 4x100 where everybody ran 11sec, the input would look like "11.0,22.0,33.0" - we subtract from the final time to get the last leg time.  These will appear to the public on a separate tab.
+![Waii Relay Splits](/uploads/track-results/waii-relay-splits.png "Waii Relay Splits")
 # Display of results
+
 
