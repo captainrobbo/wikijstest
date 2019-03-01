@@ -17,5 +17,7 @@ Competition Management (in HTML format)
 * [Config tab](/manuals/cms/config)
 * [Events tab](/manuals/cms/events)
 * [Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
+* [Relays](/manuals/cms/relays/) - how to make set up relays, describe teams and members, and input results
+
 
 
