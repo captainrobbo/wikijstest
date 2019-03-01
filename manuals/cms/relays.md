@@ -28,5 +28,9 @@ If you know the runner names at this stage (and often, we do not until after the
 The names will be filled in for you when you save.  Our system checks that you have four valid bibs (or however many relay legs there are), corresponding to actual competitors; if this is not so, all 4 will disappear.
 
 # Inputting results
-There are two web forms for results input. *By Lane* will not necessarily be in time order, but will show all teams set up.  *Edit* looks almost identical, but it only shows relay results with a time assigned to them - it is more useful for inputting the results of road or cross-country relays with many teams, when you always go winner first.
+There are two web forms for results input. *By Lane* will not necessarily be in time order, but will show all teams set up.  *Edit* looks almost identical, but it only shows relay results with a time assigned to them - it is more useful for inputting the results of road or cross-country relays with many teams, when you always go winner first.  The picture below shows the form after saving once, with all the team and runner names filled in for you.
+![Relay Input 3](/uploads/track-results/relay-input-3.png "Relay Input 3")
 
+# Display of results
+
+This needs improvement :-(
