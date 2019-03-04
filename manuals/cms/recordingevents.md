@@ -85,7 +85,7 @@ Below are some examples showing the display format depending on how the athletes
 
 	# 1.22 Horizontal Disciplines
 	
-For horizontal disciplines the method is exactly the same until the point up after you have *Fetched Start List* and clicked *Record*. For this example we are using Shot Put.
+For horizontal disciplines the method is exactly the same until the point up after you have generated a start list, either by clicking *Fetch Start List* or manually created a specific order via the *Edit* button. For this example we are using Shot Put.
 
 With the horizontal disciplines, after clicking *Record* you will be met with the following screen:
 
