@@ -66,12 +66,10 @@ After clicking this button you will be shown the three relevant options:
 "O" = Over
 "X" = Fail
 
-In this instance we are going to say that David passed first time. 
+Below are some exaples showing the display format depending on how the athletes do:
 
 *Passed First Time*
 ![Passedfirsttime](/uploads/recording-field-events/passedfirsttime.png "Passedfirsttime")
-
-Below are some other options showing the display format depending on how the athletes do:
 
 *Failed at First Attempt*
 ![Failedfirsttime](/uploads/recording-field-events/failedfirsttime.png "Failedfirsttime")
