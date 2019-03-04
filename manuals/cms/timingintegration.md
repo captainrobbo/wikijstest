@@ -52,7 +52,7 @@ As with most recording input screens, from your Competition homepage, click *Sta
 *Competitor List - Seeded*
 ![Click Edit](/uploads/track-results/click-edit.png "Click Edit")
 
-Once you have a list of athletes showing in the event click the *Edit* button at the top, which is highlighted above. This will give you the following screen. 
+Once you have a list of athletes showing in the event, you can click *Edit* or *By Lane*. *By Lane* is often used for track races, from 60m up to 400m where they are lane based. It is easy to edit results if they are given to you in lane order. The other option of *Edit* gives you the option to input results in finishing order. In this example we have clicked *Edit* (ironically with a 100m race). This will give you the following screen. 
 
 *Editing Screen*
 ![Edit Screen](/uploads/track-results/edit-screen.png "Edit Screen")
