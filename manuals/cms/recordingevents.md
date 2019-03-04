@@ -62,6 +62,7 @@ After clicking this button you will be shown the three relevant options:
 ![Record](/uploads/recording-field-events/record.png "Record")
 
 R = Retire
+- = Pass
 O = Over
 X = Fail
 
