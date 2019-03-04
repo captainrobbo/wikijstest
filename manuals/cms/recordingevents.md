@@ -141,7 +141,7 @@ The default view from this screen is just the *Summary*, as highlighted in blue.
 *Edit Details*
 ![Edit Details](/uploads/fieldevent-postevent/edit-details.png "Edit Details")
 
-Once you have clicked *Details* you will be shown all the available rounds. Simply paste the results in from a pre-populated speadsheet or type them in. The system knows which athlete corresponds to which bib so just match the results to the bib. Once you click *Save* then the *Order* column will automatically populate. Finally, it is possible to enter the weight of the Shot for each athlete in here.
+Once you have clicked *Details* you will be shown all the available rounds. Simply paste the results in from a pre-populated speadsheet or type them in. The system knows which athlete corresponds to which bib so just match the results to the bib. Once you click *Save* then the *Place* column will automatically populate. Finally, it is possible to enter the weight of the Shot for each athlete in here.
 
 You can also click the *Show Athlete Details* button to view more information, such as the name and club. 
 
