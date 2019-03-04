@@ -17,9 +17,11 @@ You can either type into here but the quickest way is to copy directly from a sp
 **Date of Birth**: Enter the date of birth for the athlete. Note the format that is required before pasting in. This is required to automatically generate an age category.
 **Team Id**: Input the athlete's Team ID if they have one. If using a registered club, ensure you use the club code provided in OpenTrack's database. For example, BEL for Belgrave Harriers. Please email *support@opentrack.run* if unsure of the code. This field is not required if you do not want to include team results or displays.If your athlete is competing for their country, enter the country ID.
 **Nationality**: Similar to Team ID, enter the ID Nationality of the country for that athlete. For example, GBR for Great Britain. If you are unaware of the country ID, please email *support@opentrack.run*. This field is not required if you do not want to include country display.
-**Event1**: Input the event that the athlete is competing in. These are denoted by the codes given from the *Event* tab. 
-**Event2**: A second event input.
-**Event3**: A third event input.
+**Event**: Input the event that the athlete is competing in. These are denoted by the codes given from the *Event* tab. 
+**Pb**: Enter the Personal Best for this athlete and this event. This is important if you want to seed the event at a future stage.
+**Sb**: Enter the Season's Best for this athlete and this event. This is important if you want to seed the event at a future stage.
+
+If there is an athlete competing in multiple events, simply copy the initial/primary row for this athlete and change the *Event*, *Pb* & *Sb* to the next event.
 
 Once completed click the blue *Save* button at the bottom right and you should be presented with the following screen. 
 
