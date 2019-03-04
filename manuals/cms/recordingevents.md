@@ -61,10 +61,10 @@ After clicking this button you will be shown the three relevant options:
 *Recording Options*
 ![Record](/uploads/recording-field-events/record.png "Record")
 
-R = Retire
-- = Pass
-O = Over
-X = Fail
+ R = Retire
+ -  = Pass
+ O = Over
+ X = Fail
 
 In this instance we are going to say that David passed first time. 
 
