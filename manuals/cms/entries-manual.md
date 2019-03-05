@@ -76,5 +76,5 @@ Clicking the *Don’t filter* button will ignore the gender and age group catego
 
 ![Dont Filter](/uploads/competition-entries-images/dont-filter.png "Dont Filter")
 
-# 1.5 When to complete entries
+# 1.5 When to close entries
 This varies competition to competition. Depending on the organiser, they may “close the entries’ a few days before the competition, or even leave it open so team managers can adjust and switch people on the day. Ensure you check with the meeting director instead of leaving it too late for your entries. 
