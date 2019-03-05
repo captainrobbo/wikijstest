@@ -1,4 +1,4 @@
-![Addteam](/uploads/team/addteam.png "Addteam")<!-- TITLE: Training Manual - Teams Tab -->
+<!-- TITLE: Training Manual - Teams Tab -->
 
 The Teams tab is where you can add teams to a match competition and apply bib strings if you have A and B teams.
 # 1.1 Adding a Team
