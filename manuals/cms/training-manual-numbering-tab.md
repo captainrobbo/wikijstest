@@ -11,7 +11,7 @@ There are a few different numbering and ordering methods to choose from. Only at
 *Numbering Tab*
 ![Numbering Tab](/uploads/numbering/numbering-tab.png "Numbering Tab")
 
-	# 1.2.1 Numbering Systems
+		# 1.2.1 Numbering Systems
 
 There are five different Numbering systems to choose from:
 
@@ -29,8 +29,7 @@ There are five different Numbering systems to choose from:
 	
 5. Repeat for each category
 	This works the same as Numbers 3 & 4 but for a (user-defined) category. 
-
-		# 1.2.2 Ordering Methods
+# 1.2.2 Ordering Methods
 
 Once you have chosen your Numbering System, you can select the method by which you wish the bib numbers to the be assigned.  There are seven separate ordering methods:
 
