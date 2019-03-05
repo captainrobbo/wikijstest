@@ -34,6 +34,8 @@ There are five different Numbering systems to choose from:
 
 Once you have chosen your Numbering System, you can select the method by which you wish the bib numbers to the be assigned.  There are seven separate ordering methods:
 
+		# 1.2.3 Numbers Available
+
 1) Alphabetical on family name 
 2) Event (short sprints first)
 3) Age Group
