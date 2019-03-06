@@ -56,5 +56,14 @@ Click on the athlete you wish to change and the appropriate arrows appear:
 * Arrows on the left move the athlete up and down lanes in the same heat. 
 * Arrows on the right move the athlete up and down between heats.
 
+*Manual Override*
+![Manualoverride 2](/uploads/seeding/manualoverride-2.png "Manualoverride 2")
+
+Click *Save* when you are done. 
+
+Navigating to the Event screen will show you how the athletes appear in the heat now they have been seeded.
+
+*Seeded Athletes Display*
+![Seedingdisplay](/uploads/seeding/seedingdisplay.png "Seedingdisplay")
 # 1.2 Manual Seeding
 
