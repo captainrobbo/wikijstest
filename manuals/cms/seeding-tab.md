@@ -66,4 +66,8 @@ Navigating to the Event screen will show you how the athletes appear in the heat
 *Seeded Athletes Display*
 ![Seedingdisplay](/uploads/seeding/seedingdisplay.png "Seedingdisplay")
 # 1.2 Manual Seeding
+For various reasons, some competitions will not have qualifying performances for their athletes. In these situations it is still possible to seed them into various heats and lane orders however you want. Alternatively, it may be that you just want an entirely random lane draw.
 
+	# 1.2.2 Random Lane Draw
+
+For this option
