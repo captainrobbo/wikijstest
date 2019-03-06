@@ -21,5 +21,40 @@ This screen shows all the events that have been loaded for your competition. Fir
 *Qualifying Performances*
 ![Pbscreen](/uploads/seeding/pbscreen.png "Pbscreen")
 
+Once all your athletes have qualifying performances, click the *Seeding* button at the to right of the screen. This will bring you to the screen below, which is where you choose the seeding options.
 
+*Seeding Screen*
+![Lanechoice](/uploads/seeding/lanechoice.png "Lanechoice")
+
+1. **Method**: Choose your seeding method. Currently (as of 06/03/2019) only *Fastest First* & *Fastest Last* work. This stipulates the method both within each heat and from heat to heat.
+2. **Heats**: Choose how many heats this event has.
+3. **Max / Heat**: Choose the maximum number of competitors that can compete in each heat.
+4. **Max Lanes**: Choose maximum (highest) lane number in each heat. This will be the maximum lane number you are using. For example, if lanes 2 and 3 are not available but lane 9 is, you will still type 9, even though the maximum used lanes here would be 7.
+5. **Lane Preferences**: Here you stipulate the lane order preference for your competitors. Click the highlighted *?* for more information here to see how this works. In the example above:
+The fastest 3 athletes in each heat will be assigned randomly between lanes 4, 5 & 6. The next fastest 3 will be randomly distributed between lanes 2, 7, & 8 with the slowest 2 randomly distributed between 1 & 9. We are not using lane 3. 
+	Use the same format as this for whichever distribution you want to use. 
+
+When you have completed these fields, click the blue *Save* button. 
+
+Once this has saved, click the blue *Seed* button.
+
+This will now seed the athletes in the method chosen. In the next two screens you can see how they are distributed across the four heats.
+
+*Slowest Heat*
+![Seeded 1](/uploads/seeding/seeded-1.png "Seeded 1")
+
+*Faster Heats*
+![Seeded 2](/uploads/seeding/seeded-2.png "Seeded 2")
+
+	# 1.1.2 Manual Override
+
+After this event has been seeded you can still manually move athletes around if you want to. 
+
+From the *Seeding* tab choice *Override*. This will take you to the following screen. 
+
+Click on the athlete you wish to change and the appropriate arrows appear:
+* Arrows on the left move the athlete up and down lanes in the same heat. 
+* Arrows on the right move the athlete up and down between heats.
+
+# 1.2 Manual Seeding
 
