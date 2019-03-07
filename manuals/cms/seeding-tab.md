@@ -70,4 +70,20 @@ For various reasons, some competitions will not have qualifying performances for
 
 	# 1.2.2 Random Lane Draw
 
-For this option
+This option will only work if none of your athletes have qualifying performances attached to them.
+
+Head to the *Start Lists / Results* of your event and choose the event you need. If the event has not yet been seeded no athletes will show:
+
+*Event Page*
+![Event](/uploads/seeding/event.png "Event")
+
+If you click the blue highlighted *Fetch Start Lists* button. 
+
+*Random Start List*
+![Randomseed](/uploads/seeding/randomseed.png "Randomseed")
+
+You can click the *Fetch Start Lists* button again to randomly seed the draw if you want.
+
+	# 1.2.3 Pre-determined Lane Draw
+
+
