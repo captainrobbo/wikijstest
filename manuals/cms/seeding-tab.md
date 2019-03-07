@@ -46,6 +46,7 @@ This will now seed the athletes in the method chosen. In the next two screens yo
 *Faster Heats*
 ![Seeded 2](/uploads/seeding/seeded-2.png "Seeded 2")
 
+
 	# 1.1.2 Manual Override
 
 After this event has been seeded you can still manually move athletes around if you want to. 
