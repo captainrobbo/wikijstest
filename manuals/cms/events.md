@@ -45,6 +45,11 @@ Complete the fields as follows:
 **cut_after_round**: Input after which round competitors will be cut. **This is for field events only. For example, typically in Long Jump, competitors will cut cut after 3 jumps (i.e. 3 rounds).**
 **cut_survivors**: Input how many athletes continue after the cut. **This is for field events only.** 
 **Team Types**:  Select from one of the three options available. Ad-hoc teams means teams that will be created purely for your event on a one-off occasion. For example, a pub or work colleagues team.
+**Record text**: Type the details of the record - i.e. Name, Location, Year, Natinality - it is up to you. This will appear on the homepage of the event.
+**Record performance**: Type the details of the record - i.e. 18.02m. This will appear on the homepage of the event.
+**Minimum performance**:
+**Maximum performance**:
+
 
 ***N.B. Currently, progression from heats to finals must be done manually.***
 
