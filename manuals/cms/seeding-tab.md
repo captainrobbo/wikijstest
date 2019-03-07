@@ -83,8 +83,39 @@ If you click the blue highlighted *Fetch Start Lists* button.
 *Random Start List*
 ![Randomseed](/uploads/seeding/randomseed.png "Randomseed")
 
-You can click the *Fetch Start Lists* button again to randomly seed the draw if you want.
+You can click the *Fetch Start Lists* button again to randomly seed the draw if you want. 
 
-	# 1.2.3 Pre-determined Lane Draw
+If you want to remove the data, click the red *Delete Data* button at the bottom left.
 
+	# 1.2.3 Pre-determined Lane Draw (including Field Events)
+
+If you have a specific order that you want to your athletes to start in that is not random or a standard seeding method then this is the method to use. Similarly, if you have a specific order that you want your field athletes to compete in then use this method to load them in.
+
+In this example, we will use a track event as it can also show lane draws. However, field events work exactly the same but without loading in a lane draw. 
+
+Firstly, head to the *Start Lists / Results* of your event and choose the event you need. If the event has not yet been seeded no athletes will show. Click either *By Lane* or *Edit* to manually seed your athletes. You can click either - they will both effectively do the same function for this purpose. In this example we have chosen *By Lane*.
+
+*Choose your Manual Seeding Method*
+![Bylaneoredit](/uploads/seeding/bylaneoredit.png "Bylaneoredit")
+
+Once you have clicked *By Lane* you will be displayed with the following screen:
+
+*By Lane Screen*
+![Bylane](/uploads/seeding/bylane.png "Bylane")
+
+From this screen you can type or paste in this order that you want. You need to include the bib numbers - these will automatically pull through the athlete's details. If you have specific lanes to use (as in the example below) then input these into the *Lane* column. If it is a field event or a road race (i.e. an event without lanes) then just input the bibs in the order required.
+
+*Manual Seeding*
+![Pastedin](/uploads/seeding/pastedin.png "Pastedin")
+
+Once you are done inputting the information, click the blue *Save* button.
+
+Clicking *Show Athlete Details* will show further information on the athletes.
+
+*Athlete Details*
+![Athletedetails](/uploads/seeding/athletedetails.png "Athletedetails")
+
+Finally, clicking the event name link at the top left of the screen will take you to the event display page to show how the athletes will line up (either in lanes or just in participation order (if a field event)).
+
+*Seeding Display*
 
