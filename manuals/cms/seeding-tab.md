@@ -118,4 +118,6 @@ Clicking *Show Athlete Details* will show further information on the athletes.
 Finally, clicking the event name link at the top left of the screen will take you to the event display page to show how the athletes will line up (either in lanes or just in participation order (if a field event)).
 
 *Seeding Display*
+![Seededmanually](/uploads/seeding/seededmanually.png "Seededmanually")
 
+If you want to have a printable list to provide to a call room or official, or if a field event - a Field Card - click the *Start Lists* button at the top right.
