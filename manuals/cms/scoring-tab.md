@@ -1,8 +1,8 @@
 <!-- TITLE: Scoring Tab -->
 
-The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.  These are implemented in two different ways which we call *Athletics* or *Distance* scoring respectively
+The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
 # 1.1 Athletics Scoring
-*Athletics scoring* involves adding up points across many different events in an athletics meeting.  
+This is for athletics (Track & Field) meets so covers all disciplines of athletics. 
 
 Firstly, choose the *Scoring* tab on the left hand side of the Manage screen. From here, click the *Scoring System* drop down and this will provide the options available. All of these have been prepared ad-hoc upon request. If the system you require is not listed here then please enquire to *support@opentrack.run* to see if we can implement the system you need.
 
@@ -55,23 +55,54 @@ As you can see, this updates the Scores (as navigated to from the event homepage
 
 The Scoring Methods that have have been designed and implemented already are as follows:
 
-If you need another system, please contact as well in advance and we will try to add it.
-***  No team scoring
-*  DNA: 12-10-8-6-4-2, one scorer per team - 
-*  8-7-6-5-4-3-2-1 based on position in final
-*  6-5-4-3-2-1- based on position in final
-*  British Athletic League, A and B string scorers
-*  Varsity, two scorers, 5-4-3-2
-*  Kinnaird and Sward Trophy
-*  European Cup 10,000m
-*  Loughborough Intl
-*  Cyprus (6-5-4-3-2-1, all score)
-*  Balkan (8-7-6... 1, all score)
-*  Malta (15-14-13..., one scorer) 
-*  Cyprus vs Greece (5-3-2-1, 5-2 relays)
-*  Turkish Super League (8-7-6-5-4-3-2-1)
-*  British / Irish Masters Overall Scores
-*  Welsh Indoor Intl (5-3-2-1)**
+*  **No team scoring**
+	* *Explanation*: This is the default option on this page and means there is no team scoring method within the competition.
+	* *Example*: https://data.opentrack.run/x/2019/GBR/sx-sy-indoor/
+*  **DNA: 12-10-8-6-4-2, one scorer per team**
+	* *Explanation*: 
+	* *Example*: https://data.opentrack.run/x/2018/BLR/dna3/
+*  **8-7-6-5-4-3-2-1 based on position in final**
+	* *Explanation*: 
+	* *Example*:
+*  **6-5-4-3-2-1 based on position in final**
+	* *Explanation*: 
+	* *Example*:
+*  **British Athletic League, A and B string scorers**
+	* *Explanation*: 
+	* *Example*:
+*  **Varsity, two scorers, 5-4-3-2**
+	* *Explanation*: 
+	* *Example*:
+*  **Kinnard and Sward Trophy**
+	* *Explanation*: 
+	* *Example*:https://data.opentrack.run/x/2018/GBR/ks/
+*  **European Cup 10,000m**
+	* *Explanation*: 
+	* *Example*: https://data.opentrack.run/x/2018/GBR/not/
+*  **Loughborough Intl**
+	* *Explanation*: 
+	* *Example*: https://data.opentrack.run/x/2018/GBR/lia/
+*  **Cyprus (6-5-4-3-2-1, all score)**
+	* *Explanation*: 
+	* *Example*:
+*  **Balkan (8-7-6... 1, all score)**
+	* *Explanation*: 
+	* *Example*:
+*  **Malta (15-14-13..., one scorer) **
+	* *Explanation*: 
+	* *Example*:
+*  **Cyprus vs Greece (5-3-2-1, 5-2 relays)**
+	* *Explanation*: 
+	* *Example*:
+*  **Turkish Super League (8-7-6-5-4-3-2-1)**
+	* *Explanation*: 
+	* *Example*: https://data.opentrack.run/x/2018/TUR/turkcell/
+*  **British / Irish Masters Overall Scores**
+	* *Explanation*: 
+	* *Example*:
+*  **Welsh Indoor Intl (5-3-2-1)**
+	* *Explanation*: Four points scorers within each event. Awarded 5 for 1st, 3 for 2nd, 2 for 3rd and 1 for 4th. Meeting records secure bonus points which are input manually. See above for explanation on how.
+	* *Example*: https://data.opentrack.run/x/2019/GBR/waii/
 
 
 # 1.2 Distance Scoring
