@@ -130,8 +130,8 @@ Fill in the fields as follows:
 *Sum of filtered race positions*: 
 *Sum of absolute race positions*:
 *Mob match, scorers = smallest team, eliminating non-scorers*:
-*Sum of times*:
-*Sum of age grades*:
+*Sum of times*: Cumulative times by the number of finishers/scorers per team
+*Sum of age grades*: 
 *No teams, just filtered individuals*:
 **Allow non-scorers**: Tick this if you want non-scorers to impact upon the calculation of places. For example, if you choose a position based scoring method and a non-scorer finished 23rd and scorer is 24th, do you want the scorer to be scored as 23rd or 24th? 
 **Scorers**:Type the maximum number of scorers that are to score in a team.
@@ -139,4 +139,19 @@ Fill in the fields as follows:
 **penalty**: Type the position penalty for incomplete teams. It is per competitor. 
 
 Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. 
+
+If you have results in already, click *View Table* to see the results. Click *Back* to see your list of saved scoring methods. As you can see below, this example competition had multiple scoring implemented:
+
+*Saved Scoring Systems*
+![Distancescoringsaved](/uploads/scoring/distancescoringsaved.png "Distancescoringsaved")
+
+Once you have completed inputting all your scoring methods and your races have finished, you can see the Scores results. Navigate to the homepage of the competition and choose *Scores*. From here you will see the available Category fields:
+
+*Scoring Categories*
+![Categoryawards](/uploads/scoring/categoryawards.png "Categoryawards")
+
+Either click on a specific field or scroll down to see them in a long list.
+
+*Scoring Results for M35*
+![Categoryawardsm 35](/uploads/scoring/categoryawardsm-35.png "Categoryawardsm 35")
 
