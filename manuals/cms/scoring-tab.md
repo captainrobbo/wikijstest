@@ -1,8 +1,8 @@
 <!-- TITLE: Scoring Tab -->
 
-The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
+The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.  These are implemented in two different ways which we call *Athletics* or *Distance* scoring respectively
 # 1.1 Athletics Scoring
-This is for athletics (Track & Field) meets so covers all disciplines of athletics. 
+*Athletics scoring* involves adding up points across many different events in an athletics meeting.  
 
 Firstly, choose the *Scoring* tab on the left hand side of the Manage screen. From here, click the *Scoring System* drop down and this will provide the options available. All of these have been prepared ad-hoc upon request. If the system you require is not listed here then please enquire to *support@opentrack.run* to see if we can implement the system you need.
 
@@ -55,13 +55,14 @@ As you can see, this updates the Scores (as navigated to from the event homepage
 
 The Scoring Methods that have have been designed and implemented already are as follows:
 
+If you need another system, please contact as well in advance and we will try to add it.
 ***  No team scoring
-*  DNA: 12-10-8-6-4-2, one scorer per team
+*  DNA: 12-10-8-6-4-2, one scorer per team - 
 *  8-7-6-5-4-3-2-1 based on position in final
 *  6-5-4-3-2-1- based on position in final
-*  British Athletic Leagye, A and B string scorers
-*  Varsity, two scorers, 5-4-3-2-
-*  Kinnard and Sward Trophy
+*  British Athletic League, A and B string scorers
+*  Varsity, two scorers, 5-4-3-2
+*  Kinnaird and Sward Trophy
 *  European Cup 10,000m
 *  Loughborough Intl
 *  Cyprus (6-5-4-3-2-1, all score)
