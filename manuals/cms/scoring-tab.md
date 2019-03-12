@@ -90,7 +90,7 @@ The Scoring Methods that have have been designed and implemented already are as 
 *  **Balkan (8-7-6... 1, all score)**
 	* *Explanation*: 
 	* *Example*:
-*  **Malta (15-14-13..., one scorer) **
+*  **Malta (15-14-13..., one scorer)**
 	* *Explanation*: 
 	* *Example*:
 *  **Cyprus vs Greece (5-3-2-1, 5-2 relays)**
