@@ -51,5 +51,6 @@ As you can see, this updates the Scores (as navigated to from the event homepage
 *Scores Results*
 ![Athletics Scoring](/uploads/scoring/athletics-scoring.png "Athletics Scoring")
 
+# 1.2 Distance Scoring
 
 
