@@ -127,13 +127,16 @@ Fill in the fields as follows:
 **Filter genders**: Choose from the drop-down which gender you want the scoring to affect. In this example, we would choose Ladies, as it is only for Women (W35-W44).
 **Filter teams**: Manually type the teams you want the scoring to affect, separated by a comma (e.g. BEL,THH,HHH). If you want it to affect all teams, just leave it blank.
 **Method**: Choose from the available drop-downs:
-	* 	*Sum of filtered race positions*:
-	* 	*Sum of absolute race positions*:
-	* 	*Mob match, scorers = smallest team, eliminating non-scorers*:
-	* 	*Sum of times*:
-	* 	*Sum of age grades*:
-	* 	*No teams, just filtered individuals*:
-**Allow non-scorers**:
-**Scorers**:
-**Allow incomplete teams**:
-**penalty**:
+*Sum of filtered race positions*: 
+*Sum of absolute race positions*:
+*Mob match, scorers = smallest team, eliminating non-scorers*:
+*Sum of times*:
+*Sum of age grades*:
+*No teams, just filtered individuals*:
+**Allow non-scorers**: Tick this if you want non-scorers to impact upon the calculation of places. For example, if you choose a position based scoring method and a non-scorer finished 23rd and scorer is 24th, do you want the scorer to be scored as 23rd or 24th? 
+**Scorers**:Type the maximum number of scorers that are to score in a team.
+**Allow incomplete teams**:Tick this if incomplete teams (position based scoring methods) are still allowed to score.
+**penalty**: Type the position penalty for incomplete teams. It is per competitor. 
+
+Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. 
+
