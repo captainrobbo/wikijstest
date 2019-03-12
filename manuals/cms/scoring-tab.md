@@ -1,8 +1,8 @@
 <!-- TITLE: Scoring Tab -->
 
-The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
+The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.  These are implemented in two different ways which we call *Athletics* or *Distance* scoring respectively
 # 1.1 Athletics Scoring
-This is for athletics (Track & Field) meets so covers all disciplines of athletics. 
+*Athletics scoring* involves adding up points across many different events in an athletics meeting.  
 
 Firstly, choose the *Scoring* tab on the left hand side of the Manage screen. From here, click the *Scoring System* drop down and this will provide the options available. All of these have been prepared ad-hoc upon request. If the system you require is not listed here then please enquire to *support@opentrack.run* to see if we can implement the system you need.
 
@@ -53,58 +53,59 @@ As you can see, this updates the Scores (as navigated to from the event homepage
 
 	# 1.1.2 Currently Implemented Scoring Methods & Explanations
 
-The Scoring Methods that have have been designed and implemented already are as follows:
+The Scoring Methods that have have been designed and implemented already are listed below.  There are an infinite variety, but most are variations on "points for positions".   A
 
-*  **No team scoring**
-	* *Explanation*: This is the default option on this page and means there is no team scoring method within the competition.
-	* *Example*: https://data.opentrack.run/x/2019/GBR/sx-sy-indoor/
-*  **DNA: 12-10-8-6-4-2, one scorer per team**
-	* *Explanation*: 
-	* *Example*: https://data.opentrack.run/x/2018/BLR/dna3/
-*  **8-7-6-5-4-3-2-1 based on position in final**
-	* *Explanation*: 
-	* *Example*:
-*  **6-5-4-3-2-1 based on position in final**
-	* *Explanation*: 
-	* *Example*:
-*  **British Athletic League, A and B string scorers**
-	* *Explanation*: 
-	* *Example*:
-*  **Varsity, two scorers, 5-4-3-2**
-	* *Explanation*: 
-	* *Example*:
-*  **Kinnard and Sward Trophy**
-	* *Explanation*: 
-	* *Example*:https://data.opentrack.run/x/2018/GBR/ks/
-*  **European Cup 10,000m**
-	* *Explanation*: 
-	* *Example*: https://data.opentrack.run/x/2018/GBR/not/
-*  **Loughborough Intl**
-	* *Explanation*: 
-	* *Example*: https://data.opentrack.run/x/2018/GBR/lia/
-*  **Cyprus (6-5-4-3-2-1, all score)**
-	* *Explanation*: 
-	* *Example*:
-*  **Balkan (8-7-6... 1, all score)**
-	* *Explanation*: 
-	* *Example*:
-*  **Malta (15-14-13..., one scorer) **
-	* *Explanation*: 
-	* *Example*:
-*  **Cyprus vs Greece (5-3-2-1, 5-2 relays)**
-	* *Explanation*: 
-	* *Example*:
-*  **Turkish Super League (8-7-6-5-4-3-2-1)**
-	* *Explanation*: 
-	* *Example*: https://data.opentrack.run/x/2018/TUR/turkcell/
-*  **British / Irish Masters Overall Scores**
-	* *Explanation*: 
-	* *Example*:
-*  **Welsh Indoor Intl (5-3-2-1)**
-	* *Explanation*: Four points scorers within each event. Awarded 5 for 1st, 3 for 2nd, 2 for 3rd and 1 for 4th. Meeting records secure bonus points which are input manually. See above for explanation on how.
-	* *Example*: https://data.opentrack.run/x/2019/GBR/waii/
+If you need another system, please contact as well in advance and we will try to add it.
+
+### No team scoring
+This is the default for any open meeting or championship.  No scores page will be visible.
+
+###  8-7-6-5-4-3-2-1 based on position in final
+###  6-5-4-3-2-1- based on position in final
+These are typically for 8-club or 6-club matches.  
+
+###  British Athletic League, A and B string scorers
+
+
+###  Varsity, two scorers, 5-4-3-2
+This was first used for the Welsh Indoor Varsity between Cardiff Metropolitan and Birmingham universities.
+
+###  Kinnaird and Sward Trophy
+This is an inter-club meeting held in April each year in South West London.  Six clubs participate, with up to two designated scorers each.  In sprints, there will be designated A and B scorers in different races; in distance races, the first of the pair is the A runner and gets most points.  However, guests may also take part in any race.
+
+###  European Cup 10,000m
+This uses the "sum of times" method.   The first 3 finishers from each country have their times totalled.  However, there are A and B races for both men and women, and we have to look at both.
+
+### Loughborough Intl
+This is an early-season match in the UK with many years' history, and was the first major delivery of our competition management system.  [Here's the match](https://data.opentrack.run/x/2018/GBR/lia/).  There are 6 teams scoring 6-5-4-3-2-1 according to position, but with double the points for relays.
+
+### Cyprus (6-5-4-3-2-1, all score)
+### Balkan (8-7-6... 1, all score)
+###  Malta (15-14-13..., one scorer) 
+These three competitions are unusual in that we don't limit the number of scorers per team.  So if one club from Cyprus took the first six places in one event, they would get 21 points.
+
+### Cyprus vs Greece (5-3-2-1, 5-2 relays)
+This is an annual match held betyeen the two countries.  There are two scorers per team, with special scoring for relays.
+
+
+### Turkish Super League (8-7-6-5-4-3-2-1)
+Turkey has a popular league structure similar to the UK, or to a football league.  The Super League contains the top clubs.  We were honoured to do live tesults in 2019 from the League final which came down to a one-point difference.
+
+
+###  British / Irish Masters Overall Scores
+This is an unusual one.  There is an annual cross-country match for England, Ireland, Scotland and Wales, split into several distance races.  Within this there are matches in every single 5-year age group, scored using *Distance Scoring* below.  However, we also need to know which country was the most successful across all age groups.  This was therefore listed under "athletics scoring", and works by adding up all the *distance scoring* tables.
+
+
+###  Welsh Indoor Intl (5-3-2-1)**
+This was a Wales versus England match held on 3 March 2019 and presented live on OpenTrack.
 
 
 # 1.2 Distance Scoring
+In *Distance Scoring*, we typically have many runners of different categories in one race (or maybe in a few races).  We *filter* the successful finishers, typically extracting one age group or category, then sort them into teams and give points to the teams.  
+
+The system works by defining a number of *scoring tables*.  Each of these can be configured to filter in several ways - by category, or club, or event - and then to total in a certain way.   The UK has a lot of cross-country, and we are cross-country runners, and in our experience this covers most of the scoring systems in common use.
+
+(to be completed)
+
 
 
