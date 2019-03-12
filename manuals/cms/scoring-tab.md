@@ -51,6 +51,28 @@ As you can see, this updates the Scores (as navigated to from the event homepage
 *Scores Results*
 ![Athletics Scoring](/uploads/scoring/athletics-scoring.png "Athletics Scoring")
 
+	# 1.1.2 Currently Implemented Scoring Methods & Explanations
+
+The Scoring Methods that have have been designed and implemented already are as follows:
+
+***  No team scoring
+*  DNA: 12-10-8-6-4-2, one scorer per team
+*  8-7-6-5-4-3-2-1 based on position in final
+*  6-5-4-3-2-1- based on position in final
+*  British Athletic Leagye, A and B string scorers
+*  Varsity, two scorers, 5-4-3-2-
+*  Kinnard and Sward Trophy
+*  European Cup 10,000m
+*  Loughborough Intl
+*  Cyprus (6-5-4-3-2-1, all score)
+*  Balkan (8-7-6... 1, all score)
+*  Malta (15-14-13..., one scorer) 
+*  Cyprus vs Greece (5-3-2-1, 5-2 relays)
+*  Turkish Super League (8-7-6-5-4-3-2-1)
+*  British / Irish Masters Overall Scores
+*  Welsh Indoor Intl (5-3-2-1)**
+
+
 # 1.2 Distance Scoring
 
 
