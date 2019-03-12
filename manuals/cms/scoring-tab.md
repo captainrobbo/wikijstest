@@ -34,5 +34,22 @@ In this example, we have a few guest clubs for will not be competing for points 
 
 The *A String* & *B String* relates to relays - England entered 2 teams into a relay event, whilst Wales only entered 1 - this field denotes what A & B String runners will wear on their vests. For all other events, competitors wear normal bib numbers (i.e. 1, 2, 3) and their club (England or Wales) is specified when the competitors enter. 
 
+Below is an example of how this point scoring system works in the men's Shot Put. As you can see from the results below, England came 1st & 2nd, scoring them 5 & 3 points. Wales came 4th & 6th but the competitors in 3rd & 5th were not competing for clubs involved in the match, which means that Wales still come 3rd & 4th, scoring 2 & 1 points.
+
+*Shot Put Results*
+![Points](/uploads/scoring/points.png "Points")
+
+However, as you can see from Lewis Byng's final throw, he beat the meeting record, which, in this scoring system, gains another point. This has to be done manually. Once looking at the results of the competition, click *Edit* or *Edit Results*. From the resulting screen, you will see a field named *Scoring overrides*. 
+
+From here, you override the scoring for this event. In this example, England had 8 points. With the meeting record bonus points, they should have 9. In the *Scoring overrides* field, enter the club code and the new points, in the format as shown below:
+
+*Scoring Override*
+![Scoreoverride](/uploads/scoring/scoreoverride.png "Scoreoverride")
+
+As you can see, this updates the Scores (as navigated to from the event homepage) to the override, giving England 9 & Wales 3 for this event:
+
+*Scores Results*
+![Athletics Scoring](/uploads/scoring/athletics-scoring.png "Athletics Scoring")
+
 
 
