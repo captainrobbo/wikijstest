@@ -1,6 +1,6 @@
 <!-- TITLE: Training Manual - Competitors Tab-->
 
-The competitors tab is where event organisers (rather than Team Managers) can be entered in prior to the competition or on the day. Competitors can either be added in bulk or individually. 
+The competitors tab is where event organisers (rather than Team Managers) can enter athletes prior to the competition or on the day. Competitors can either be added in bulk or individually. 
 # Bulk Entry Input
 Similar to the event entry grid, competitors can be pasted in from a spreadsheet. Once you have clicked on the *Competitor* tab on the left, at the bottom left of the grid Click the *“Bulk add/delete"* button, which is found at the bottom left of the page. 
 
