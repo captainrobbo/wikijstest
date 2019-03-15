@@ -43,5 +43,11 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 11:** [Timing Integration](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
 
+	# 1.3 Recording Results
 
+Below are the manuals/instructions on how to record both track and field results. Aspect of the track results manual can be used for distance running events also. 
+
+[Field Events Recording](/manuals/cms/recordingevents) - How to record results for field event
+
+[Track (or just running) Event Recording](/manuals/cms/timingintegration) - How to record results for track/running events
 
