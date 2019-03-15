@@ -14,9 +14,9 @@ Below are all the manuals and traning guides for using OpenTracks Competition Ma
 * [Sign up to OpenTrack](/manuals/cms/signup) - How to sign up and log in to OpenTrack
 * [Create a competition](/manuals/cms/create-comp) - How to initially create your competition 
 * [Add a new venue](/manuals/cms/addvenue) - How to add a new competition venue into the OpenTrack database
-
-		# Manage - Setting up your Competition
-
+ 
+		 # 1.2 
+ 
 * [PhotoFinish](/manuals/cms/timingintegration) - operator's guide
 * [Basics tab](/manuals/cms/timingintegration)
 * [Config tab](/manuals/cms/config)
