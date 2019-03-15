@@ -27,7 +27,8 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 3:** [Events Tab](/manuals/cms/events) - How to input events into your competition
 
-**Tab Number 4:** [Numbering Tab](/manuals/cms/teams-tab) 
+**Tab Number 4:** [Teams Tab](/manuals/cms/teams-tab) -  How to add teams to a Match competition and apply A&B string allocation - key for **Relays**
+
 
 [Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
 
