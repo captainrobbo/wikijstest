@@ -12,7 +12,22 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 	# 1.1 Starting Up
 
 [Sign up to OpenTrack](/manuals/cms/signup) - How to sign up and log in to OpenTrack
+
 [Create a competition](/manuals/cms/create-comp) - How to initially create your competition 
+
 [Add a new venue](/manuals/cms/addvenue) - How to add a new competition venue into the OpenTrack database
 
 	# 1.2 Manage - Setting up & Editing your Competition
+
+[PhotoFinish](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
+
+[Basics tab](/manuals/cms/timingintegration) - Advice and instructions on the Basic tab when Managing your competition
+
+[Config tab](/manuals/cms/config) - Advice and instructions on the Config tab when Managing your competition
+
+[Events tab](/manuals/cms/events) - How to input events into your competition
+
+[Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
+
+[Relays](/manuals/cms/relays/) - how to make set up relays, describe teams and members, and input results
+
