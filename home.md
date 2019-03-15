@@ -8,21 +8,11 @@ User Guides (all in Google Docs format, being replaced by HTML below):
 
 # Competition Management System - Training Manual (in HTML format)
 Below are all the manuals and traning guides for using OpenTracks Competition Management System.
-
-		# 1.1 Starting Up
 	
-* [Sign up to OpenTrack](/manuals/cms/signup) - How to sign up and log in to OpenTrack
-* [Create a competition](/manuals/cms/create-comp) - How to initially create your competition 
-* [Add a new venue](/manuals/cms/addvenue) - How to add a new competition venue into the OpenTrack database
- 
-		 # 1.2 
- 
-* [PhotoFinish](/manuals/cms/timingintegration) - operator's guide
-* [Basics tab](/manuals/cms/timingintegration)
-* [Config tab](/manuals/cms/config)
-* [Events tab](/manuals/cms/events)
-* [Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
-* [Relays](/manuals/cms/relays/) - how to make set up relays, describe teams and members, and input results
+	# 1.1 Starting Up
 
-
-
+	# 1.2 Manage - Setting up and Editing your Competition
+	
+	# 1.3 Recording Events
+	
+	# 1.4 Team Management
