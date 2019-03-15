@@ -1,10 +1,6 @@
 <!-- TITLE: OpenTrack Documentation -->
-<!-- SUBTITLE: Training Manuals - How to do everything -->
 
-User Guides (all in Google Docs format, being replaced by HTML below):
-* [Club Admin Manual](https://docs.google.com/document/d/1PnZBJIw9H1YfLaIDMDeVRg4ePSHHpFaht_BH-6S3w8Y/edit?usp=sharing) - how to add members, license them and enter competitions
-* [Federation Admin Manual](https://docs.google.com/document/d/16LjFap55W0LM0pWG4j7XQaQL7SOj_BBd5xmArMc8nlw/edit?usp=sharing) - includes notes for translators
-* [UK Entry System Manual](https://docs.google.com/document/d/14S2dC9I3uhIsIeN72yCqsZ0_cGSqHIphUC2HDSMexfI/edit?usp=sharing) - our legacy system used for paid entries to Open meetings and County Championships
+<!-- SUBTITLE: Training Manuals - How to do everything -->
 
 # Competition Management System - Training Manual (in HTML format)
 Below are the manuals and traning guides for using OpenTracks Competition Management System.
@@ -62,3 +58,10 @@ Relays currently sit slightly differently as the system has not yet been finishe
 Team Managers can also enter athletes into events that their club is competing in.
 
 [Team Manager - Athlete Entries](/manuals/cms/entries-manual) - How a Team Manager can enter their athletes
+
+# Legacy Manuals - to be replaced
+
+User Guides (all in Google Docs format, being replaced by HTML below):
+* [Club Admin Manual](https://docs.google.com/document/d/1PnZBJIw9H1YfLaIDMDeVRg4ePSHHpFaht_BH-6S3w8Y/edit?usp=sharing) - how to add members, license them and enter competitions
+* [Federation Admin Manual](https://docs.google.com/document/d/16LjFap55W0LM0pWG4j7XQaQL7SOj_BBd5xmArMc8nlw/edit?usp=sharing) - includes notes for translators
+* [UK Entry System Manual](https://docs.google.com/document/d/14S2dC9I3uhIsIeN72yCqsZ0_cGSqHIphUC2HDSMexfI/edit?usp=sharing) - our legacy system used for paid entries to Open meetings and County Championships
