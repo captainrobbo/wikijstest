@@ -19,8 +19,6 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 	# 1.2 Manage - Setting up & Editing your Competition
 
-[PhotoFinish](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
-
 **Tab Number 1:** [Basics Tab](/manuals/cms/timingintegration) - Advice and instructions on the Basic tab when Managing your competition
 
 **Tab Number 2:** [Config Tab](/manuals/cms/config) - Advice and instructions on the Config tab when Managing your competition
@@ -29,8 +27,21 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 4:** [Teams Tab](/manuals/cms/teams-tab) -  How to add teams to a Match competition and apply A&B string allocation - key for **Relays**
 
+**Tab Number 4:** [Competitors Tab](/manuals/cms/competitors) - How event organisers can add athletes (and their events) to a competition
 
-[Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
+**Tab Number 5:** [Numbering Tab](/manuals/cms/training-manual-numbering-tab) - How to apply bib numbers to your competitors
 
-[Relays](/manuals/cms/relays/) - how to make set up relays, describe teams and members, and input results
+**Tab Number 6:** [Seeding Tab](/manuals/cms/seeding-tab) - How to seed athletes and create start lists for events
+
+**Tab Number 7:** [Scoring Tab](/manuals/cms/scoring-tab) - How to set up scoring for points-based matches and competitions
+
+**Tab Number 8:**
+
+**Tab Number 9:**
+
+**Tab Number 10:**
+
+**Tab Number 11:** [Timing Integration](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
+
+
 
