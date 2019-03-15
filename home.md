@@ -7,12 +7,12 @@ User Guides (all in Google Docs format, being replaced by HTML below):
 * [UK Entry System Manual](https://docs.google.com/document/d/14S2dC9I3uhIsIeN72yCqsZ0_cGSqHIphUC2HDSMexfI/edit?usp=sharing) - our legacy system used for paid entries to Open meetings and County Championships
 
 # Competition Management System - Training Manual (in HTML format)
-Below are all the manuals and traning guides for using OpenTracks Competition Management System.
+Below are the manuals and traning guides for using OpenTracks Competition Management System.
 	
 	# 1.1 Starting Up
 
-	# 1.2 Manage - Setting up and Editing your Competition
-	
-	# 1.3 Recording Events
-	
-	# 1.4 Team Management
+* [Sign up to OpenTrack](/manuals/cms/signup) - How to sign up and log in to OpenTrack
+* [Create a competition](/manuals/cms/create-comp) - How to initially create your competition 
+* [Add a new venue](/manuals/cms/addvenue) - How to add a new competition venue into the OpenTrack database
+
+		# 1.1 Starting Up
