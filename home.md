@@ -21,9 +21,9 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 [PhotoFinish](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
 
-[Basics tab](/manuals/cms/timingintegration) - Advice and instructions on the Basic tab when Managing your competition
+Tab Number 1: [Basics Tab](/manuals/cms/timingintegration) - Advice and instructions on the Basic tab when Managing your competition
 
-[Config tab](/manuals/cms/config) - Advice and instructions on the Config tab when Managing your competition
+Tab Number 2: [Config Tab](/manuals/cms/config) - Advice and instructions on the Config tab when Managing your competition
 
 [Events tab](/manuals/cms/events) - How to input events into your competition
 
