@@ -27,6 +27,8 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 3:** [Events Tab](/manuals/cms/events) - How to input events into your competition
 
+**Tab Number 4:** [Numbering Tab](/manuals/cms/teams-tab) 
+
 [Team Managers](/manuals/cms/entries-manual) - how to make an entry for your club
 
 [Relays](/manuals/cms/relays/) - how to make set up relays, describe teams and members, and input results
