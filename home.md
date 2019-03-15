@@ -51,3 +51,14 @@ Below are the manuals/instructions on how to record both track and field results
 
 [Track (or just running) Event Recording](/manuals/cms/timingintegration) - How to record results for track/running events
 
+	# 1.4 Relays
+
+Relays currently sit slightly differently as the system has not yet been finished for them (as of 15th March 2019).
+
+[Relays Setup & Results Recording](/manuals/cms/relays) - How to enter your relay teams and record the results
+
+	# 1.5 Team Entries
+
+Team Managers can also enter athletes into events that their club is competing in.
+
+[Team Manager - Athlete Entries](/manuals/cms/entries-manual) - How a Team Manager can enter their athletes
