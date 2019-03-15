@@ -21,7 +21,7 @@ Once into your competition home-page, click *Teams*.
 
 # 1.2 Team Entries
 
-From here, you can view the competitors (see CMS Manual 2.9), and the teams entered to the competition.
+From here, you can view the competitors and the teams entered to the competition.
 
 *Teams Entered*
 ![Teams Entered](/uploads/competition-entries-images/teams-entered.png "Teams Entered")
