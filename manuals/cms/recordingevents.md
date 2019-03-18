@@ -56,7 +56,7 @@ The new height will now be displayed at the top of the competitors, with the jum
 *Recording a Height*
 ![Startrecord](/uploads/recording-field-events/startrecord.png "Startrecord")
 
-After clicking this button you will be shown the three relevant options: 
+After clicking this button you will be shown the four relevant options: 
 
 *Recording Options*
 ![Record](/uploads/recording-field-events/record.png "Record")
