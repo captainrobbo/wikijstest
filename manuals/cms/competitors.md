@@ -56,7 +56,7 @@ The second tab, seen below, is *Events entered*. From the list of events inputte
 For Masters competitions, it is also possible to input an age group if your competitor is down-ageing. 
 
 *Add Competitor Pop-up - Events*
-
+![Add Competitor Event](/uploads/competitors/add-competitor-event.png "Add Competitor Event")
 
 **Tab 3 - Advanced**
 
