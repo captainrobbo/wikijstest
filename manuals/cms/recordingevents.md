@@ -161,5 +161,5 @@ For Long Jump & Triple Jump there is also the option to input a wind speed per r
 This will show in the results display in brackets underneath each competitor's effort.
 
 *Wind Speed Display*
-
+![Winddisplay](/uploads/fieldevent-postevent/winddisplay.png "Winddisplay")
 
