@@ -18,7 +18,7 @@ If the competition does not yet exist, head to #1.2 below.
 From the Competition homepage, click the drop down arrow on the right-hand side and choose the country your competition is set in. Following this, click the blue *New Competition* button. See the image below.
 
 *Step 1*
-![Comp Home](/uploads/create-competitions/comp-home.png "Comp Home")
+
 
 Following this you will be taken to the next screen. 
 
