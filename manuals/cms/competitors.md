@@ -26,7 +26,7 @@ If there is an athlete competing in multiple events, simply copy the initial/pri
 Once completed click the blue *Save* button at the bottom right and you should be presented with the following screen. 
 
 *Competitors Output*
-![Competitors Tab](/uploads/competitors/competitors-tab.png "Competitors Tab")
+
 
 # Individual Entry Input
 As it suggests the individual entry screen is a quick and easy way to add athletes when they come in individually. 
