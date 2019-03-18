@@ -1,4 +1,4 @@
-<!-- TITLE: Training Manual - Results Recording - Track Events -->
+<!-- TITLE: Training Manual - Timing Integration -->
 
 # 1.1 Introduction
 There are two methods of recording results are track events - simply put they are automatic and manual results input. However, both are relatively fast and provide minimal work for officials. 
