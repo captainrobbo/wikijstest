@@ -45,7 +45,7 @@ Below are the manuals/instructions on how to record both track and field results
 
 [Field Events Recording](/manuals/cms/recordingevents) - How to record results for field event
 
-[Track (or just running) Event Recording](/manuals/cms/timingintegration) - How to record results for track/running events
+[Track (or just running) Event Recording](/manuals/cms/track-recording) - How to record results for track/running events
 
 	# 1.4 Relays
 
