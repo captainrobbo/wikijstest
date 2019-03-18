@@ -34,7 +34,7 @@ As it suggests the individual entry screen is a quick and easy way to add athlet
 To use this function, click the blue *"Add new competitor"* button at the top right of the screen. This will bring up the following box:
 
 *Add Competitor Pop-up*
-
+![Add Competitor](/uploads/competitors/add-competitor.png "Add Competitor")
 
 **Tab 1 - Details**
 If the athlete has been entered into the OpenTrack system previously then they will have a record so you can use the *lookup athlete . . .* function. Simply begin to type their name and the appropriate options will appear. Click on the relevant one and the known fields will autopopulate; you may need to still complete some of the available input fields. 
@@ -56,7 +56,7 @@ The second tab, seen below, is *Events entered*. From the list of events inputte
 For Masters competitions, it is also possible to input an age group if your competitor is down-ageing. 
 
 *Add Competitor Pop-up - Events*
-![Add Competitor Event](/uploads/competitors/add-competitor-event.png "Add Competitor Event")
+
 
 **Tab 3 - Advanced**
 
