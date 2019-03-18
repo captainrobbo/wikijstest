@@ -26,7 +26,7 @@ If there is an athlete competing in multiple events, simply copy the initial/pri
 Once completed click the blue *Save* button at the bottom right and you should be presented with the following screen. 
 
 *Competitors Output*
-
+![Competitors Tab](/uploads/competitors/competitors-tab.png "Competitors Tab")
 
 # Individual Entry Input
 As it suggests the individual entry screen is a quick and easy way to add athletes when they come in individually. 
@@ -34,7 +34,7 @@ As it suggests the individual entry screen is a quick and easy way to add athlet
 To use this function, click the blue *"Add new competitor"* button at the top right of the screen. This will bring up the following box:
 
 *Add Competitor Pop-up*
-![Add Competitor](/uploads/competitors/add-competitor.png "Add Competitor")
+
 
 **Tab 1 - Details**
 If the athlete has been entered into the OpenTrack system previously then they will have a record so you can use the *lookup athlete . . .* function. Simply begin to type their name and the appropriate options will appear. Click on the relevant one and the known fields will autopopulate; you may need to still complete some of the available input fields. 
