@@ -23,7 +23,7 @@ From the Competition homepage, click the drop down arrow on the right-hand side 
 Following this you will be taken to the next screen. 
 
 *Step 2*
-
+![New Comp](/uploads/create-competitions/new-comp.png "New Comp")
 
 From the screen above, you need to fill in the options provided. 
 1. **Name (english)**: Type the name you wish to give your competition. If, for example, your event is annual, you do not need to include the year in the title.
