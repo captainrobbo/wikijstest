@@ -37,3 +37,8 @@ The following URLs can be clicked on and browsed:
 * [Match Scores](https://data.opentrack.run/x/2019/GBR/waii/scores/json/) - only if there is team scoring)	
 * [Single Event](https://data.opentrack.run/x/2019/GBR/waii/event/F01/1/1/json/) - available for all events	
 
+
+# To be documented
+* Uploading competition data to an existing competition
+* Push notifications
+* Description of JSON structure
