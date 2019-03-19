@@ -30,6 +30,10 @@ You can therefore download data from any competition at any stage in its lifecyc
 
 The format is always the same, what we call the OpenTrack-Lite competition schema.  The easiest way to understand this is simply by looking at URLs in your browser.  These are made by suffixing 'json' to URLs specific to the competition.  AS an example, we will take the Wales / England Indoor International in March 2019.  You can browse it here:
 	https://data.opentrack.run/x/2019/GBR/waii/
-	
-[Full Competition Description](https://data.opentrack.run/x/2019/GBR/waii/json/) (this takes a few seconds to generate)	
+
+
+The following URLs can be clicked on and browsed:
+* [Full Competition Description](https://data.opentrack.run/x/2019/GBR/waii/json/) (this takes a few seconds to generate)	
+* [Match Scores](https://data.opentrack.run/x/2019/GBR/waii/scores/json/) - only if there is team scoring)	
+* [Single Event](https://data.opentrack.run/x/2019/GBR/waii/event/F01/1/1/json/) - available for all events	
 
