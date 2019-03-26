@@ -40,5 +40,6 @@ From here you need to complete the General Information related to your meeting. 
 29. **OT Supported**: Tick this.
 30. **OT Support Summary**: Here you can write brief details of what OpenTrack is providing, e.g. *Competition Management System* or *CMS & Entries*.
 31. **OT Support Details**:  An elaboration on the above if required.
+32. **Display organiser logo**: Click this if you want your logo to be displayed as part of the header at the top of all your Competition pages. Contact *support@opentrack.run* to have your logo loaded into the system if you want to do this.
 
 Click the blue *Manage Competition* button at the bottom once you are done.
