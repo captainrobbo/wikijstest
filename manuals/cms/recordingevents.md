@@ -169,4 +169,8 @@ This will show in the results display in brackets underneath each competitor's e
 
 	1.3.2 Vertical Events
 
+Unlike with horizontal events where you can have weight or wind variables, this is not exist with the vertical disciplines. Pole Vault & High Jump work the same - we have chosen High Jump in this example.
 
+Similar to the Shot Put example above, if no competitors hasve been loaded and you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click here to learn how.
+
+Once the competitors are loaded in and you are ready to enter the results, click the *Edit* button. This will present you with the following screen:
