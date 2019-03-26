@@ -121,7 +121,11 @@ Use the same process to record the wind speed as you do to enter the distance.
 
 If, for whatever reason, you are unable to do live recording during the event, then the data can still be input from field cards immediately afterwards. This will provide quick results for spectators and instant updates of scoring, if applicable. The method is also very easy, thereby easing workload for officials. 
 
-As with most recording input screens, from your Competition homepage, click Start Lists / Results. From the resulting screen, choose the event in question. In this example we have selected a Shot Put competition. Once you have clicked your event, you will be presented with the screen below.
+As with most recording input screens, from your Competition homepage, click Start Lists / Results. From the resulting screen, choose the event in question. 
+
+	1.3.1 Horizontal Events
+
+In this example we have selected a Shot Put competition. Once you have clicked your event, you will be presented with the screen below.
 
 *Shot Put Event*
 ![Load List](/uploads/fieldevent-postevent/load-list.png "Load List")
@@ -162,4 +166,7 @@ This will show in the results display in brackets underneath each competitor's e
 
 *Wind Speed Display*
 ![Winddisplay](/uploads/fieldevent-postevent/winddisplay.png "Winddisplay")
+
+	1.3.2 Vertical Events
+
 
