@@ -47,7 +47,7 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 15:** Ethics - Currently just used as a Doping Control Summary. If an Organiser or Race DIrector wants or needs to fill this in for records then simply type in the information in the box and click *Save*.
 
-**Tab Number 16:** Issues
+**Tab Number 16:** Issues - Where Race Directors can view and respond to reported issues. 
 
 **Tab Number 17:** Push Notifications
 
