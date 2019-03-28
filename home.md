@@ -31,13 +31,28 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 7:** [Scoring Tab](/manuals/cms/scoring-tab) - How to set up scoring for points-based matches and competitions
 
-**Tab Number 8:**
+**Tab Number 8:** Officials
 
-**Tab Number 9:**
+**Tab Number 9:** Timetable / Programme
 
-**Tab Number 10:**
+**Tab Number 10:** Downloads
 
 **Tab Number 11:** [Timing Integration](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
+
+**Tab Number 12:** Upload Excel
+
+**Tab Number 13:** Upload Json
+
+**Tab Number 14:** Feed / Announcing
+
+**Tab Number 15:** Ethics
+
+**Tab Number 16:** Issues
+
+**Tab Number 17:** Push Notifications
+
+**Tab Number 18:** Finalize
+
 
 	# 1.3 Recording Results
 
