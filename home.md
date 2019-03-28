@@ -43,9 +43,9 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 13:** Upload Json
 
-**Tab Number 14:** Feed / Announcing
+**Tab Number 14:** Feed / Announcing - This is used as a place for Race Directors, Organisers, Officials, etc., to mark messages and announcements. It is essentially instead of emailing each other during whilst a meeting is taking place. Simply type the message and click *Submit* and it will store in a feed with the message, date & time. 
 
-**Tab Number 15:** Ethics
+**Tab Number 15:** Ethics - Currently just used as a Doping Control Summary. If an Organiser or Race DIrector wants or needs to fill this in for records then simply type in the information in the box and click *Save*.
 
 **Tab Number 16:** Issues
 
