@@ -190,13 +190,26 @@ In order to progress further with the results input, click the *Details* button.
 
 If you type in the height that you want to enter results for and click the button then a new column will appear in the grid.
 
+*Add Height*
+![Addheight](/uploads/field-event-post-vertical/addheight.png "Addheight")
+
 From here, type in the results for the competitors for this height:
 "r" = Retire
 "-" = Pass
 "o" = Over
 "x" = Fail
 
+Once you have done this, click *Save* at the top right or bottom right.
+
 *Results Input - One Height*
 ![Oneheightresults](/uploads/field-event-post-vertical/oneheightresults.png "Oneheightresults")
 
+It is possible to add multiple heights before inputting any results. However, if you do this, you must enter a result for all competitors in all heights before hitting *Save* otherwise the data will be lost. This is only for available jumps - for example, if an athlete has retired or failed three times at the same height, then you do not need to enter anything in subsequent heights. See the example below:
 
+*Multiple Heights Input*
+![Multipleheights](/uploads/field-event-post-vertical/multipleheights.png "Multipleheights")
+
+Once saved, click the title of the event at the top left to return and view the results:
+
+*Results*
+![Results](/uploads/field-event-post-vertical/results.png "Results")
