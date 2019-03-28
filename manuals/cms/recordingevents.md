@@ -169,10 +169,34 @@ This will show in the results display in brackets underneath each competitor's e
 
 	1.3.2 Vertical Events
 
-Unlike with horizontal events, there are no weight or wind variables with the vertical disciplines; Pole Vault & High Jump both work the same - we have chosen High Jump in this example. 
+Unlike with horizontal events, there are no weight or wind variables with the vertical disciplines; Pole Vault & High Jump both work the same - we have chosen High Jump in this example. So firstly click your chosen event from the Event list, found from the *Start Lists/Results* section. 
 
 Similar to the Shot Put example above, if no competitors hasve been loaded and you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click here to learn how.
 
 Once the competitors are loaded in and you are ready to enter the results, click the *Edit* button. This will present you with the following screen:
+
+*Summary*
+![Summary](/uploads/field-event-post-vertical/summary.png "Summary")
+
+The above is just the *Summary* screen. If you click the *Show Athlete Details* button then you can view further information - Names, Club, Category:
+
+*Athlete Details*
+![Athletedetails](/uploads/field-event-post-vertical/athletedetails.png "Athletedetails")
+
+In order to progress further with the results input, click the *Details* button. This will reveal an *Add height* box and button shown on the right hand side: 
+
+*Adding a Height*
+![Details](/uploads/field-event-post-vertical/details.png "Details")
+
+If you type in the height that you want to enter results for and click the button then a new column will appear in the grid.
+
+From here, type in the results for the competitors for this height:
+"r" = Retire
+"-" = Pass
+"o" = Over
+"x" = Fail
+
+*Results Input - One Height*
+![Oneheightresults](/uploads/field-event-post-vertical/oneheightresults.png "Oneheightresults")
 
 
