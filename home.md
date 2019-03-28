@@ -31,9 +31,9 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 7:** [Scoring Tab](/manuals/cms/scoring-tab) - How to set up scoring for points-based matches and competitions
 
-**Tab Number 8:** Officials
+**Tab Number 8:** Officials - Lists who has what access privileges for the competition. Currently only OpenTrack staff can grant access so please request any required personnel to *support@opentrack.run*
 
-**Tab Number 9:** Timetable / Programme
+**Tab Number 9:** Timetable / Programme - Currently to be developed (as of 28th March 2019)
 
 **Tab Number 10:** Downloads
 
