@@ -204,7 +204,7 @@ Once you have done this, click *Save* at the top right or bottom right.
 *Results Input - One Height*
 ![Oneheightresults](/uploads/field-event-post-vertical/oneheightresults.png "Oneheightresults")
 
-It is possible to add multiple heights before inputting any results. However, if you do this, you must enter a result for all competitors in all heights before hitting *Save* otherwise the data will be lost. This is only for available jumps - for example, if an athlete has retired or failed three times at the same height, then you do not need to enter anything in subsequent heights. See the example below:
+It is possible to add multiple heights before inputting any results. However, if you do this, you must enter a result for all competitors in all heights before hitting *Save* otherwise the data will be lost. This is only for available jumps - for example, if an athlete has retired or failed three times at the same height, then you do not need to enter anything in subsequent heights.  If you have only recorded a "pass" for an athlete then results will remain blank for that person - only once the a "retire", "over" or "fail" has been recorded will results show up for them. See the example below:
 
 *Multiple Heights Input*
 ![Multipleheights](/uploads/field-event-post-vertical/multipleheights.png "Multipleheights")
