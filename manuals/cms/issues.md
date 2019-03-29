@@ -8,6 +8,9 @@ Anyone can report issues or something they want looked at within a competition o
 
 This will bring up the following screen, where the person can fill in the Subject and Description of their issue. It is also possible to prioritise from 1 (Very Low) to 5 (critical). Simply fill in the boxes and click *submit*. The name of the Competition or Meeting is autofilled. If you are on the page of a specific event when you click the the *Report Issue* button then the Event will also be autofilled. 
 
+*Complete the Issue*
+![Completeissue](/uploads/issues/completeissue.png "Completeissue")
+
 This could be anything from a faulty webpage through to an error in results, so an athlete or parent could be completing this. However, you do have to have an account and be logged in for this button to appear.
 # 1.2 Viewing Reported Issues
 To view any reported issues, simply click the *Issues* tab and all reported items will appear, providing brief details:
