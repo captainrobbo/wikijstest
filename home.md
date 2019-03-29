@@ -39,9 +39,9 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 11:** [Timing Integration](/manuals/cms/timingintegration) - How to integrate your PhotoFinish system to OpenTrack for instant track results
 
-**Tab Number 12:** Upload Excel
+**Tab Number 12:** Upload Excel - If you want to upload results after the competition, just for record and reference then you can use this function. Click on the tab and follow the instructions provided. Contact *support@opentrack.run* if you have any issues.
 
-**Tab Number 13:** Upload Json
+**Tab Number 13:** Upload Json - Similar to Tab 12, this allows you to upload results but in the standard Json format. Contact *support@opentrack.run* if you have any issues. 
 
 **Tab Number 14:** Feed / Announcing - This is used as a place for Race Directors, Organisers, Officials, etc., to mark messages and announcements. It is essentially instead of emailing each other during whilst a meeting is taking place. Simply type the message and click *Submit* and it will store in a feed with the message, date & time. 
 
@@ -49,7 +49,7 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 16:** Issues - Where Race Directors can view and respond to reported issues. 
 
-**Tab Number 17:** Push Notifications
+**Tab Number 17:** Push Notifications - The default is for this to be ticked. Essentialy it means if you are doing live recording for field events, the results appear on the site without a user having to refresh.
 
 **Tab Number 18:** Finalize
 
