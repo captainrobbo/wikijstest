@@ -1,11 +1,10 @@
 <!-- TITLE: Training Manual - Issues Tab-->
 
-
 # 1.1 Reporting Issues
 Anyone can report issues or something they want looked at within a competition or a meeting. To do this all they need to do is click the *Report Issue*button at the bottom left of every page as seen below:
 
 *Report Issue*
-
+![Reportissuebutton](/uploads/issues/reportissuebutton.png "Reportissuebutton")
 
 This will bring up the following screen, where the person can fill in the Subject and Description of their issue. It is also possible to prioritise from 1 (Very Low) to 5 (critical). Simply fill in the boxes and click *submit*. The name of the Competition or Meeting is autofilled. If you are on the page of a specific event when you click the the *Report Issue* button then the Event will also be autofilled. 
 
@@ -19,7 +18,7 @@ Priority - 1 to 5
 Status - Open or Closed
 
 *Issue List*
-
+![Reportlist](/uploads/issues/reportlist.png "Reportlist")
 
 If you click on the issue then you are able to deal with it. 
 * There is a link to the URL the person was on when they made the report so you can easily view the same problem.
@@ -29,3 +28,4 @@ If you click on the issue then you are able to deal with it.
 * *Update* or *Delete* the issue
 
 *Individual Issue*
+![Individualissue](/uploads/issues/individualissue.png "Individualissue")
