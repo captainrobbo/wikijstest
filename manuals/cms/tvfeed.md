@@ -29,6 +29,8 @@ Firstly, click *Options*:
 * **Show Blank background?: Make sure you click this to remove the intial stadium background and replace it with a blank blue screen.**
 Background Colour:
 
+
+
 	# 1.1.2 Configuration
 
 After sorting your *Options*, you can click it again to collapse this setting and then choose *Configuration:*
