@@ -38,11 +38,11 @@ After sorting your *Options*, you can click it again to collapse this setting an
 
 ![Configuration](/uploads/tv/configuration.png "Configuration")
 
-API Mode: Choose Live, unless you are just testing the system.
-Country: Choose the country of the competition.
-Year: This will default to the current year but it is configurable.
-Language: Choose from the drop down.
-Use local names: Default to be ticked.
+*API Mode*: Choose Live, unless you are just testing the system.
+*Country*: Choose the country of the competition.
+*Year*: This will default to the current year but it is configurable.
+*Language*: Choose from the drop down.
+*Use local names*: Default to be ticked.
 
 
 	# 1.1.3 Meeting
