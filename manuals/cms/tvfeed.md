@@ -31,7 +31,7 @@ Firstly, click *Options*:
 
 		# 1.1.2 Configuration
 
-After sorting your *Options*, you can click it again to collapse this setting and then choose *Configuration:*
+	After sorting your *Options*, you can click it again to collapse this setting and then choose *Configuration:*
 
 ![Configuration](/uploads/tv/configuration.png "Configuration")
 
