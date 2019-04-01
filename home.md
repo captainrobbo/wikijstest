@@ -78,7 +78,7 @@ Team Managers can also enter athletes into events that their club is competing i
 
 If your competition is going to displayed on TV then you can use our integrated TV site to overlay a feed (displaying start lists, results, etc.) over the live action.
 
-
+[TV Feed Overlay](/manuals/cms/tvfeed) - How to Set up the TV Overlay
 # Legacy Manuals - to be replaced
 
 User Guides (all in Google Docs format, being replaced by HTML below):
