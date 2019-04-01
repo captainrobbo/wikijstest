@@ -47,7 +47,7 @@ After sorting your *Options*, you can click it again to collapse this setting an
 
 	# 1.1.3 Meeting
 
-Once you have set your Country & Year, you can select the *Meeting* panel at the top of the page. Once you have done this, click *Get Meeting list* - you will now be displayed with the list of meetings in the country and year of selection.
+Once you have set your Country & Year, you can select the *Meeting* panel at the top of the page. Click *Get Meeting list* - you will now be displayed with the list of meetings in the country and year of selection.
 
 *Meeting List*
 ![Meeting](/uploads/tv/meeting.png "Meeting")
