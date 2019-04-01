@@ -27,7 +27,7 @@ Firstly, click *Options*:
 *Screen Cursor*: Hinfs the cursor when you move it over the screen outside the Control Panel.
 *Transitions*:
 **Show Blank background?: Make sure you click this to remove the intial stadium background and replace it with a blank blue screen.**
-Background Colour:
+*Background Colour*:
 
 
 
