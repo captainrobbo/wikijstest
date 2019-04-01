@@ -16,7 +16,7 @@ Use the *Left* and *Right* cursor keys to hide and display the Control Panel on 
 
 If you click on the various options from the Control Panel then they will expand and collapse. 
 
-	# 1.1.1 Options
+		# 1.1.1 Options
 	
 Firstly, click *Options*:
 
@@ -29,7 +29,7 @@ Firstly, click *Options*:
 * **Show Blank background?: Make sure you click this to remove the intial stadium background and replace it with a blank blue screen.**
 Background Colour:
 
-	# 1.1.2 Configuration
+		# 1.1.2 Configuration
 
 After sorting your *Options*, you can click it again to collapse this setting and then choose *Configuration:*
 
