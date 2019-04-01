@@ -2,7 +2,7 @@
 
 This TV overlay has been created as a basic setup for displaying data over the top of a live action TV feed. It is by no means up to the proficiency of those you see on the BBC but as a free alternative it works very well. 
 
-(N.B. Screeenshots for this manual to be displayed in a diffetrent format to the rest of the OpenTrack manuals). 
+(N.B. Screeenshots for this manual to be displayed in a different format to the rest of the OpenTrack manuals). 
 # 1.1 Setting up the Overlay
 Firstly head to the website: https://tv.opentrack.run/
 
