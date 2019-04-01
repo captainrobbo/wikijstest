@@ -13,7 +13,7 @@ Use the *Left* and *Right* cursor keys to hide and display the Control Panel on 
 
 If you click on the various options from the Control Panel then they will expand and collapse. 
 
-		# 1.1.1 Options
+	# 1.1.1 Options
 	
 Firstly, click *Options*:
 
@@ -46,7 +46,7 @@ Once you have set your Country & Year, you can select the *Meeting* panel at the
 
 Click on the Event that you are displaying or that is currently live and now you can start to look at the different display overlays - *Screen* panel. 
 
-	#  1.1.5 Screen
+	# 1.1.5 Screen
 
 The examples below are shown with the *Control Panel* hidden:
 
