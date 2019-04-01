@@ -4,7 +4,7 @@
 # Setting up relay teams
 Relays are complicated.  A Relay Team is not necessarily the same as a team contesting the match.   Sometimes each club has one team, and that's simple.  But sometimes we have, for example, England A and England B.  And sometimes runners just want to practice, and make up teams to fill out the track, so we effectively have guest teams.
 
-The first step is to set up the teams in the match.  Go to Manage Teams.  There should already be an automatically created team for each club that has entered the match through our Team Entry system.  You can also manually create teams, and tell it whether they correspond to real clubs, or countries, or are something temporary.   You can if you wish re-use a guest team across events - e.g. you might have GST1 and GST2 to allow for up to two guest teams in any relay.
+The first step is to set up the teams in the match.  Go to Manage Teams.  There should already be an automatically created team for each club that has entered the match through our Team Entry system.  You can also manually create teams, and tell it whether they correspond to real clubs, or countries, or are something temporary.   You can if you wish re-use a guest team across events - e.g. you might have GST1 and GST2 to allow for up to two guest teams in any relay.  click [test](/manuals/cms/events)
 
 ## A and B teams
 
