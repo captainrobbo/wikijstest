@@ -23,9 +23,9 @@ Firstly, click *Options*:
 *Options*
 ![Options](/uploads/tv/options.png "Options")
 
-Theme: The options from this drop down simply change the display layout of the Control Panel.
-Screen Cursor: Hinfs the cursor when you move it over the screen outside the Control Panel.
-Transitions:
+* Theme: The options from this drop down simply change the display layout of the Control Panel.
+* Screen Cursor: Hinfs the cursor when you move it over the screen outside the Control Panel.
+* Transitions:
 **Show Blank background?: Make sure you click this to remove the intial stadium background and replace it with a blank blue screen.**
 Background Colour
 
