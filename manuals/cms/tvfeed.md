@@ -27,12 +27,13 @@ Firstly, click *Options*:
 * Screen Cursor: Hinfs the cursor when you move it over the screen outside the Control Panel.
 * Transitions:
 * **Show Blank background?: Make sure you click this to remove the intial stadium background and replace it with a blank blue screen.**
-Background Colour:
+Background Colour
 
 
 
 	# 1.1.2 Configuration
-
+	
+	
 After sorting your *Options*, you can click it again to collapse this setting and then choose *Configuration:*
 
 ![Configuration](/uploads/tv/configuration.png "Configuration")
@@ -41,9 +42,10 @@ After sorting your *Options*, you can click it again to collapse this setting an
 * Country: Choose the country of the competition.
 * Year: This will default to the current year but it is configurable.
 * Language: Choose from the drop down.
-* Use local names: Default to be ticked.
+Use local names: Default to be ticked.
 
-		# 1.1.3 Meeting
+
+	# 1.1.3 Meeting
 
 Once you have set your Country & Year, you can select the *Meeting* panel at the top of the page. Once you have done this, click *Get Meeting list* - you will now be displayed with the list of meetings in the country and year of selection.
 
