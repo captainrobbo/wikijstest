@@ -85,7 +85,7 @@ The examples below are shown with the *Control Panel* hidden:
 
 	# 1.1.7 Timer
 
-This works alongside the *Screen* options above. Select *Timer* from the *Screen* dropdown to display the Stopwatch at the bottom right. Then use the *Start, Stop & Reset* buttons from the *Timer* dropdown to control it. This is manual so used more as a guide alongside a race; it doesn't link up to PhotoFinish - it would be very difficult to use for a 100m due to the short time of the discipline but for 5000m it would be more do-able.
+This works alongside the *Screen* options above. Select *Timer* from the *Screen* dropdown to display the Stopwatch at the bottom right. Then use the *Start, Stop & Reset* buttons from the *Timer* dropdown to control it. This is manual so used more as a guide alongside a race; it doesn't link up to PhotoFinish - it would be very difficult to use for a 100m due to the short time of the discipline and the fact you manually have to stop it, however for 5000m it would be more do-able.
 
 *Timer*
 ![Timer](/uploads/tv/timer.png "Timer")
