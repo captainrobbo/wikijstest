@@ -16,7 +16,7 @@ From the Competition Management screen of the meeting in question, choose *Timin
 Once you have clicked FinishLynx, you will be shown the following screen. If this is the first time you are following this procedure, you will need to download the synchronisation program. To do this click the button we have highlighted in red labelled *Latest EXE file*. 
 
 *Downloading the Integration software*
-![Finishlynx](/uploads/timing-integration/finishlynx.png "Finishlynx")
+![Newlynxsetup](/uploads/timing-integration/newlynxsetup.png "Newlynxsetup")
 
 Some computers will bring up a security alert when attempting to download the software. Please disregard this and download it anyway. Depending on your machine, you may need to click *More Info* followed by *Run anyway*. This error occurs as the software has not yet been used many times and so Windows is not aware of it and creates a warning message. We can assure you it is safe to use. Once it is downloaded, please install and open it.
 
