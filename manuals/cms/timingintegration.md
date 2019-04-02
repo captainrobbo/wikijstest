@@ -22,6 +22,12 @@ Some computers will bring up a security alert when attempting to download the so
 
 If you have already been through this process previously, the program will be installed on your PC so simply locate and open it. 
 
+Whilst this downloads (it does not take long at all) you can configure the options shown above. 
+
+*Lynx License Field Contents:* Choose one of these - Category is the standard choice.
+*EVT File includes field events:* Some users have a "FieldLynx" add-on so need Field Events in their EVT files too. 
+*EVT file includes people:* Whether to include people under each event in the EVT file. Default is yes.
+
 	# 1.23  Synchronisation
 Once the software has been downloaded, you can begin to enter the information to synchronise OpenTrack with FinishLynx. 
 
@@ -43,3 +49,8 @@ Once everything is green:
 7. Now click the button that reads *"Click to begin uploading"*. 
 
 Once steps 1 to 7 are completed the system now looks to the folder in step 2 every few seconds. Whenever a .lif file is saved into the folder at at the end of each race the program picks this up and automatically uploads it to the front end of the competition, ready for athletes and spectators to view. This means that results are available to view just a few seconds after the event has finished. The results are marked as unofficial until manually changed by the Race Director.
+
+Below you can see how the output looks once .lif files have been saved and uploaded:
+
+*FinishLynx Output*
+![Lynxoutput](/uploads/timing-integration/lynxoutput.png "Lynxoutput")
