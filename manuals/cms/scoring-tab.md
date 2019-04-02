@@ -127,8 +127,8 @@ Fill in the fields as follows:
 **Filter genders**: Choose from the drop-down which gender you want the scoring to affect. In this example, we would choose Ladies, as it is only for Women (W35-W44).
 **Filter teams**: Manually type the teams you want the scoring to affect, separated by a comma (e.g. BEL,THH,HHH). If you want it to affect all teams, just leave it blank.
 **Method**: Choose from the available drop-downs:
-*Sum of filtered race positions*: 
-*Sum of absolute race positions*:
+*Sum of filtered race positions*: Athletes outside a scoring team (non-scorers) are not included in positions/points. For example, if an athlete comes 75th and there are 10 non scorers in front of them, they score  65 points.
+*Sum of absolute race positions*: Regardless of whether athletes are scoring or not, they are included in the points calculation. For example, if an athlete comes 295th they score 295 points regardless of whether there are non-scorers in front of them or not.
 *Mob match, scorers = smallest team, eliminating non-scorers*:
 *Sum of times*: Cumulative times by the number of finishers/scorers per team
 *Sum of age grades*: 
