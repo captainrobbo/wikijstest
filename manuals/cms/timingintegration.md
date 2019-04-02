@@ -28,6 +28,8 @@ Whilst this downloads (it does not take long at all) you can configure the optio
 *EVT File includes field events:* Some users have a "FieldLynx" add-on so need Field Events in their EVT files too. 
 *EVT file includes people:* Whether to include people under each event in the EVT file. Default is yes.
 
+Make sure you click *Save* if you make any changes.
+
 	# 1.23  Synchronisation
 Once the software has been downloaded, you can begin to enter the information to synchronise OpenTrack with FinishLynx. 
 
