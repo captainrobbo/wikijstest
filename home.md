@@ -74,13 +74,13 @@ Team Managers can also enter athletes into events that their club is competing i
 
 [Team Manager - Athlete Entries](/manuals/cms/entries-manual) - How a Team Manager can enter their athletes
 
-	# 1.6 TV Feed Overlay
+# TV Feed Overlay
 
 If your competition is going to displayed on TV then you can use our integrated TV site to overlay a feed (displaying start lists, results, etc.) over the live action.
 
 [TV Feed Overlay](/manuals/cms/tvfeed) - How to Set up the TV Overlay
 
-	# 1.7 API Documentation for Software Developers
+# API Documentation for Software Developers
 
 [API Documentation](/manuals/api) - If you want to submit data in JSON format then this document will explain how.
 
