@@ -4,7 +4,7 @@ The Teams tab is where you can add teams to a match competition and apply bib st
 # 1.1 Adding a Team
 Once you have navigated to the *Team* tab you will be shown the teams that have been entered already, if any. 
 
-If you have entered a team and athletes using the *Team Entry* function, as explained here, then the Teams entered from this will already show in the *Team* tab. 
+If you have entered a team and athletes using the *Team Entry* function, as explained [here](/manuals/cms/entries-manual), then the Teams entered from this will already show in the *Team* tab. 
 
 To enter a team from the *Team* tab, click the blue *Add* button at the top right, as shown below.
 
@@ -30,7 +30,7 @@ Once you have clicked the *Add* button the pop-up screen will appear:
 
 When done, click the blue *Save Changes* button at the bottom. 
 
-Below are examples of the *Team* tab with various teams added. As you can see, England and Wales have been entered into the points scoring match of "WAII" whilst the other clubs are guests, so will not contribute to the points. This means that if, for example, Cardiff Athletics finished first in an event with England second, England will still receive points for first place. You can also see that England, Cardiff Athletics & Rhymney Valley AC have all entered two teams, as they have an A String and a B String. Their bib numbers are denoted by what is written here: ENG1 & ENG2 as an example. This is especially important for relays (here).
+Below are examples of the *Team* tab with various teams added. As you can see, England and Wales have been entered into the points scoring match of "WAII" whilst the other clubs are guests, so will not contribute to the points. This means that if, for example, Cardiff Athletics finished first in an event with England second, England will still receive points for first place. You can also see that England, Cardiff Athletics & Rhymney Valley AC have all entered two teams, as they have an A String and a B String. Their bib numbers are denoted by what is written here: ENG1 & ENG2 as an example. This is especially important for [relays](/manuals/cms/relays).
 
 *Completed Team Screen*
 ![Team 2](/uploads/team/team-2.png "Team 2")
