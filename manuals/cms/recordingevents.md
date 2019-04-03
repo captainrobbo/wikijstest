@@ -21,7 +21,7 @@ From the following screen, below, choose the relevant event that you wish to rec
 *Event Selection*
 ![Eventselection](/uploads/recording-field-events/eventselection.png "Eventselection")
 
-Once you have opened the event in question you will see the list of competitors. However, if this is the first time this event has been opened then the competitors will not yet be loaded. To do this click the blue *Fetch Start List* button at the top right, as seen below. This will generate a random order of competitors. If you require a specific order then you can click the *"Edit"* button located to the left of the orange *"Record"*. Click here to learn how this works.
+Once you have opened the event in question you will see the list of competitors. However, if this is the first time this event has been opened then the competitors will not yet be loaded. To do this click the blue *Fetch Start List* button at the top right, as seen below. This will generate a random order of competitors. If you require a specific order then you can click the *"Edit"* button located to the left of the orange *"Record"*. Click [here](/manuals/cms/seeding-tab) and go to 1.2.3 to learn how this works.
 
 If you require to remove the data and start again, click the red *Delete Data* button at the bottom left. 
 
@@ -85,7 +85,7 @@ Below are some examples showing the display format depending on how the athletes
 
 	# 1.22 Horizontal Disciplines
 	
-For horizontal disciplines the method is exactly the same until the point up after you have generated a start list, either by clicking *Fetch Start List* or manually created a specific order via the *Edit* button - this is explained here. For this example we are using Shot Put.
+For horizontal disciplines the method is exactly the same until the point up after you have generated a start list, either by clicking *Fetch Start List* or manually created a specific order via the *Edit* button - this is explained [here](/manuals/cms/seeding-tab) at 1.2.3. For this example we are using Shot Put.
 
 With the horizontal disciplines, after clicking *Record* you will be met with the following screen:
 
@@ -130,7 +130,7 @@ In this example we have selected a Shot Put competition. Once you have clicked y
 *Shot Put Event*
 ![Load List](/uploads/fieldevent-postevent/load-list.png "Load List")
 
-In this example, no competitors have been loaded. If you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click here to learn how.
+In this example, no competitors have been loaded. If you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click [here](/manuals/cms/seeding-tab) and go to 1.2.3 to learn how.
 
 *Competitor List*
 ![Competitor List](/uploads/fieldevent-postevent/competitor-list.png "Competitor List")
@@ -171,7 +171,7 @@ This will show in the results display in brackets underneath each competitor's e
 
 Unlike with horizontal events, there are no weight or wind variables with the vertical disciplines; Pole Vault & High Jump both work the same - we have chosen High Jump in this example. So firstly click your chosen event from the Event list, found from the *Start Lists/Results* section. 
 
-Similar to the Shot Put example above, if no competitors hasve been loaded and you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click here to learn how.
+Similar to the Shot Put example above, if no competitors hasve been loaded and you are happy with just a random starting order, click the blue *Fetch Start List* button at the top right. If you would like a specific order then click [here](/manuals/cms/seeding-tab) to learn how.
 
 Once the competitors are loaded in and you are ready to enter the results, click the *Edit* button. This will present you with the following screen:
 
