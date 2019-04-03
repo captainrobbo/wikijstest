@@ -41,7 +41,7 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 12:** Upload Excel - If you want to upload results after the competition, just for record and reference then you can use this function. Click on the tab and follow the instructions provided. Contact *support@opentrack.run* if you have any issues.
 
-**Tab Number 13:** [Upload Json](/manuals/api) - Similar to Tab 12, this allows you to upload results but in the standard JSON format. Contact *support@opentrack.run* if you have any issues. 
+**Tab Number 13:** [Upload JSON](/manuals/api) - Similar to Tab 12, this allows you to upload results but in the standard JSON format. Contact *support@opentrack.run* if you have any issues. 
 
 **Tab Number 14:** Feed / Announcing - This is used as a place for Race Directors, Organisers, Officials, etc., to mark messages and announcements. It is essentially instead of emailing each other during whilst a meeting is taking place. Simply type the message and click *Submit* and it will store in a feed with the message, date & time. 
 
