@@ -14,6 +14,9 @@ Once you have clicked *New*, you will be presented with the following screen:
 *Distance Scoring Implementation Page*
 ![Distancescoringpage](/uploads/scoring/distancescoringpage.png "Distancescoringpage")
 
+*Teams per Club*
+![Teamsperclubs](/uploads/scoring/teamsperclubs.png "Teamsperclubs")
+
 Fill in the fields as follows:
 **Event**: Choose the relevant event within your competition that you want to implement a scoring method for. 
 **Name**: Choose the name of your category. For example, if this was a X-Country event with 4 races, this could be Open Race 1 W35-W44. So this would be implementating a scoring system for females in the 35-44 age group category within race 1.
@@ -28,6 +31,7 @@ Fill in the fields as follows:
 *Sum of times*: Cumulative times by the number of finishers/scorers per team
 *Sum of age grades*: 
 *No teams, just filtered individuals*:
+**Teams per club**:
 **Allow non-scorers**: Tick this if you want non-scorers to impact upon the calculation of places. For example, if you choose a position based scoring method and a non-scorer finished 23rd and scorer is 24th, do you want the scorer to be scored as 23rd or 24th? 
 **Scorers**:Type the maximum number of scorers that are to score in a team.
 **Allow incomplete teams**:Tick this if incomplete teams (position based scoring methods) are still allowed to score.
