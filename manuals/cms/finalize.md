@@ -2,6 +2,10 @@
 
 Finalize is the last tab in the *Manage* section of the Competition Management System. It is still in development (as of 4th April 2019) but it's primary two functions work.
 # 1.1 Recalculate all units
+This function is based around [Scoring](/manuals/cms-scoring-tab). If you implement and save a Scoring method after results have already been posted then you need to click the *Recalculate all units* button to recalibrate to the new method.
+
+*Click 'Recalculate all units'*
+![Markasfinal](/uploads/finalize/markasfinal.png "Markasfinal")
 # 1.2 Remove empty units
 As of 4th April 2019 this function is still in development.
 # 1.3 Mark all results official
