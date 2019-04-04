@@ -14,9 +14,6 @@ Once you have clicked *New*, you will be presented with the following screen:
 *Distance Scoring Implementation Page*
 ![Newdistancescoring](/uploads/scoring/newdistancescoring.png "Newdistancescoring")
 
-*Teams per Club*
-![Teamsperclubs](/uploads/scoring/teamsperclubs.png "Teamsperclubs")
-
 Fill in the fields as follows:
 **Event**: Choose the relevant event within your competition that you want to implement a scoring method for. 
 **Name**: Choose the name of your category. For example, if this was a X-Country event with 4 races, this could be Open Race 1 W35-W44. So this would be implementating a scoring system for females in the 35-44 age group category within race 1.
