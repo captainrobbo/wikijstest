@@ -51,7 +51,7 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 17:** Push Notifications - The default is for this to be ticked. Essentialy it means if you are doing live recording for field events, the results appear on the site without a user having to refresh.
 
-**Tab Number 18:** [Finalize](/manuals/cms/finalize) - For recalculating [Scores](/manuals/cms/scoring-tab) and marking results of *Official*.
+**Tab Number 18:** [Finalize](/manuals/cms/finalize) - For recalculating *Scores* and marking results of *Official*.
 
 
 	# 1.3 Recording Results
