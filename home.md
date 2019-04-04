@@ -29,7 +29,7 @@ Below are the manuals and traning guides for using OpenTracks Competition Manage
 
 **Tab Number 6:** [Seeding Tab](/manuals/cms/seeding-tab) - How to seed athletes and create start lists for events
 
-**Tab Number 7:** Scoring Tab - How to set up scoring for points-based matches and competitions - we have two manuals for this: [Athletics Matches](/manuals/cms/scoring-tab) & [Distance Races](/manuals/cms/distance-scoring).
+**Tab Number 7:** [Scoring Tab](/manuals/cms/scoring-tab) - How to set up scoring for points-based matches and competitions - we have two manuals for this: [Athletics Matches](/manuals/cms/scoring-tab) & [Distance Races](/manuals/cms/distance-scoring).
 
 **Tab Number 8:** Officials - Lists who has what access privileges for the competition. Currently only OpenTrack staff can grant access so please request any required personnel to *support@opentrack.run*
 
