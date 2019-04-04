@@ -1,4 +1,6 @@
 <!-- TITLE: Training Manual - Scoring Tab -->
+
+The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
 # Distance Scoring
 The *Distance Scoring* feature is used for running events, usually outside of the track, such as X-Country and road races. 
 
