@@ -115,7 +115,7 @@ Once on the *Scoring* tab, choose *Distance Scoring*. If this is the first time 
 Once you have clicked *New*, you will be presented with the following screen:
 
 *Distance Scoring Implementation Page*
-![Distancescoringpage](/uploads/scoring/distancescoringpage.png "Distancescoringpage")
+![Newdistancescoring](/uploads/scoring/newdistancescoring.png "Newdistancescoring")
 
 Fill in the fields as follows:
 **Event**: Choose the relevant event within your competition that you want to implement a scoring method for. 
@@ -131,12 +131,16 @@ Fill in the fields as follows:
 *Sum of times*: Cumulative times by the number of finishers/scorers per team
 *Sum of age grades*: 
 *No teams, just filtered individuals*:
+**Teams per club**: Choose from the available drop-downs:
+*One team per club*: Choose this if you are only going to have one competing team for each club. 
+*A and B teams only*: Choose this if you are going to have two teams in each club. For example, if you have a XC race and it is 4 to score per team, you could have an A & B team per club. This will impact scoring further down the field if you choose *Sum of filtered race positions* as your method. 
+*Any number of teams*:As above but you can have any number of teams per club until you run out of athletes so no-one would be a non-scorer, unless there are incomplete teams (that are not allowed).
 **Allow non-scorers**: Tick this if you want non-scorers to impact upon the calculation of places. For example, if you choose a position based scoring method and a non-scorer finished 23rd and scorer is 24th, do you want the scorer to be scored as 23rd or 24th? 
 **Scorers**:Type the maximum number of scorers that are to score in a team.
 **Allow incomplete teams**:Tick this if incomplete teams (position based scoring methods) are still allowed to score.
 **penalty**: Type the position penalty for incomplete teams. It is per competitor. 
 
-Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. 
+Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. If you want to edit a field then just click on the specific Scoring field and it will bring up the above options to edit.
 
 If you have results in already, click *View Table* to see the results. Click *Back* to see your list of saved scoring methods. As you can see below, this example competition had multiple scoring implemented:
 
@@ -152,4 +156,3 @@ Either click on a specific field or scroll down to see them in a long list.
 
 *Scoring Results for M35*
 ![Categoryawardsm 35](/uploads/scoring/categoryawardsm-35.png "Categoryawardsm 35")
-
