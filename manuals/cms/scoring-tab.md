@@ -1,4 +1,5 @@
 <!-- TITLE: Training Manual - Scoring Tab -->
+
 The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
 # 1.1 Athletics Scoring
 This is for athletics (Track & Field) meets so covers all disciplines of athletics. 
