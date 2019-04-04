@@ -37,7 +37,7 @@ Fill in the fields as follows:
 **Allow incomplete teams**:Tick this if incomplete teams (position based scoring methods) are still allowed to score.
 **penalty**: Type the position penalty for incomplete teams. It is per competitor. 
 
-Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. 
+Once you have completed the fields, click *Save*. Currently (12th March 2019) you need to complete this input for every race and category you want to implement so if there are multiple categories it could take a while. If you want to edit a field then just click on the specific Scoring field and it will bring up the above options to edit.
 
 If you have results in already, click *View Table* to see the results. Click *Back* to see your list of saved scoring methods. As you can see below, this example competition had multiple scoring implemented:
 
