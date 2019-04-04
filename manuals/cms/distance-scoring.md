@@ -28,7 +28,10 @@ Fill in the fields as follows:
 *Sum of times*: Cumulative times by the number of finishers/scorers per team
 *Sum of age grades*: 
 *No teams, just filtered individuals*:
-**Teams per club**:
+**Teams per club**: Choose from the available drop-downs:
+*One team per club*: Choose this if you are only going to have one competing team for each club. 
+*A and B teams only*: Choose this if you are going to have two teams in each club. For example, if you have a XC race and it is 4 to score per team, you could have an A & B team per club. This will impact scoring further down the field if you choose *Sum of filtered race positions* as your method. 
+*Any number of teams*:As above but you can have any number of teams per club until you run out of athletes so no-one would be a non-scorer, unless there are incomplete teams (that are not allowed).
 **Allow non-scorers**: Tick this if you want non-scorers to impact upon the calculation of places. For example, if you choose a position based scoring method and a non-scorer finished 23rd and scorer is 24th, do you want the scorer to be scored as 23rd or 24th? 
 **Scorers**:Type the maximum number of scorers that are to score in a team.
 **Allow incomplete teams**:Tick this if incomplete teams (position based scoring methods) are still allowed to score.
