@@ -12,7 +12,7 @@ Once on the *Scoring* tab, choose *Distance Scoring*. If this is the first time 
 Once you have clicked *New*, you will be presented with the following screen:
 
 *Distance Scoring Implementation Page*
-![Distancescoringpage](/uploads/scoring/distancescoringpage.png "Distancescoringpage")
+![Newdistancescoring](/uploads/scoring/newdistancescoring.png "Newdistancescoring")
 
 *Teams per Club*
 ![Teamsperclubs](/uploads/scoring/teamsperclubs.png "Teamsperclubs")
