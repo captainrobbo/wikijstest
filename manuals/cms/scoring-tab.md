@@ -7,7 +7,7 @@ This is for athletics (Track & Field) meets so covers all disciplines of athleti
 Firstly, choose the *Scoring* tab on the left hand side of the Manage screen. From here, click the *Scoring System* drop down and this will provide the options available. All of these have been prepared ad-hoc upon request. If the system you require is not listed here then please enquire to *support@opentrack.run* to see if we can implement the system you need.
 
 *Track & Field Scoring Options*
-![Athleticsscoring](/uploads/scoring/athleticsscoring.png "Athleticsscoring")
+![T Fscoring](/uploads/scoring/t-fscoring.png "T Fscoring")
 
 In this example, we have chosen *Welsh Indoor Intl (5-3-2-1)*, which was first used on 3rd March 2019 for the annual Wales V England U20s Indoor International event: 
 https://data.opentrack.run/x/2019/GBR/waii/
