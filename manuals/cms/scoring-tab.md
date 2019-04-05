@@ -127,7 +127,7 @@ Fill in the fields as follows:
 **Method**: Choose from the available drop-downs:
 *Sum of filtered race positions*: Athletes outside a scoring team (non-scorers) are not included in positions/points. For example, if an athlete comes 75th and there are 10 non scorers in front of them, they score  65 points.
 *Sum of absolute race positions*: Regardless of whether athletes are scoring or not, they are included in the points calculation. For example, if an athlete comes 295th they score 295 points regardless of whether there are non-scorers in front of them or not.
-*Mob match, scorers = smallest team, eliminating non-scorers*:
+*Mob match, scorers = smallest team, eliminating non-scorers*: A mob match is between two teams. Scoring is cumulative finishing places for each team and the lowest points total wins. Scores are only calculated for the number of athletes the smaller club has, minus two. So if THH have 40 athletes and RAN have 30 then only the first 28 athletes to finish for each team will count in the scores. 
 *Sum of times*: Cumulative times by the number of finishers/scorers per team
 *Sum of age grades*: 
 *No teams, just filtered individuals*:
