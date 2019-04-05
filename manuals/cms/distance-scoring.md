@@ -61,7 +61,7 @@ Fill in the fields as follows:
 
 *Sum of times*: Cumulative times by the number of finishers/scorers per team.   For example, best 3 times is used for the inter-club prize at the London Marathon; and also at the European Championships 10,000
 
-*Sum of age grades*: This is a new one, which we think may appeal to add interest to club races.  We produce a listing by best age grade, NOT by time, and then we apply scores by position to this.  So you can have a 'best age graded team' where every club member counts, without the hassle of having lots of possibly-incomplete teams in different age groups.
+*Sum of age grades*: This is a new one, which we think may appeal to add interest to club races.  We produce a listing by best age grade, NOT by time, and then we apply scores by position to this.  So you can have a 'best age graded team' where every club member counts, without the hassle of having lots of possibly-incomplete teams in different age groups. If someone does not have a date of birth then they ignored in the results for this scoring method.
 
 
 **Teams per club**: Choose from the available drop-downs:
