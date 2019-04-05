@@ -88,8 +88,17 @@ Once you have completed inputting all your scoring methods and your races have f
 *Scoring Categories*
 ![Categoryawards](/uploads/scoring/categoryawards.png "Categoryawards")
 
-Either click on a specific field or scroll down to see them in a long list.
+Below you can see examples of different scoring method outputs. These are all calculated from same competition - British & Irish Masters Cross Country International - with the same age group of M50 to easily compare the scoring methods.
 
-*Scoring Results for M35*
-![Categoryawardsm 35](/uploads/scoring/categoryawardsm-35.png "Categoryawardsm 35")
+*Sum of filtered race positions*
+![Filteredpositions](/uploads/scoring/filteredpositions.png "Filteredpositions")
 
+*Sum of absolute race positions*
+![Absolutepositions](/uploads/scoring/absolutepositions.png "Absolutepositions")
+
+*Sum of times*
+![Sumoftimes](/uploads/scoring/sumoftimes.png "Sumoftimes")
+
+*Sum of age grades*
+
+Finally, this is the PDF showing the Awards Summary Output created from all the implemented scoring methods.
