@@ -42,7 +42,8 @@ Once you have clicked *New*, you will be presented with the following screen:
 
 Fill in the fields as follows:
 **Event**: Choose the relevant event within your competition that you want to implement a scoring method for. 
-**Name**: Choose the name of your category. For example, if this was a X-Country event with 4 races, this could be Open Race 1 W35-W44. So this would be implementating a scoring system for females in the 35-44 age group category within race 1.
+**Name**: Choose the name of your category. For example, if this was a X-Country event with 4 races, this could be Open Race 1 W35-W44. So this would be implementating a scoring system for females in the 35-44 age group category within race 1.  The name is used to calculate a friendly *slug* or URL component, so the page for this scoring table would be *<competition>/scores/open-race-1-w35-w45*
+
 **Subtitle**: This is another user-defined field that appears underneath the **Name** of the event when viewing the results. 
 **Filter categories**: Choose the categories (user-defined when loading in *Events* and *Competitors*) that this scoring system will affect. Based on the **Name** of the system above, this would be W35 & W40, meaning any female competitors between age of 35 and 44 (before they hit W45 age group).  
 **Filter genders**: Choose from the drop-down which gender you want the scoring to affect. In this example, we would choose Ladies, as it is only for Women (W35-W44).
