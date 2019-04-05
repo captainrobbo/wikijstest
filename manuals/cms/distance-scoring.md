@@ -2,8 +2,34 @@
 
 The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
 # Distance Scoring
-The *Distance Scoring* feature is used for running events, usually outside of the track, such as X-Country and road races. 
+## Concepts
+The *Distance Scoring* feature is used for *team scoring* in running events, usually outside of the track, such as X-Country and road races. The basic concept is to filter a (possibly large) race and apply a scoring system to a sub-group of the runners. 
+You do this by defining the *Scoring Tables* you wish to display.  Each of these becomes a web page you can link to.  So, for example, within a race of several hundred athletes, you can have multiple matches going on such as...
+* Men's or women's team of N runners
+* Mob matches where almost every runner counts
+* Age group competitions (e.g. M40/M45 team prize)
+* Age graded virtual team competitions, which engage everybody
+* A two-club match within a much larger race
 
+Scoring happens instantly - it's just a report on the data, calculated as people look at it.
+
+We make available a number of reports including a web page on each scoring table, and a PDF awards summary which can be read out by commentators, or pinned up or circulated.  We also try hard to 'show the working' so those who wish can check.
+
+We believe this covers most common scoring systems in current use.
+
+There are three broad steps:  
+1. You define who it applies to  (filter by age, gender, team)
+2. You choose a *summation (totaling) method* - one of *scoring position*, *absolute position*, *sum of times* (popular in big road races and Euro 10k), or *age graded* (first place is the highest age grade, not the actual winner) 
+3. You set various options such as number of scorers, and whether to allow (and penalize) incomplete teams
+
+The system takes account of people running outside their natural age category, if the meeting organiser allows this and sets the team age group.  So, we can handle veterans' down-aging, and talented juniors moving up an age-group.
+
+We hope that this handle most popular needs, but if you need a custom situation, please do let us know about it.  We're happy to implement anything of reasomably general use.
+
+
+
+
+## How to use it
 Once on the *Scoring* tab, choose *Distance Scoring*. If this is the first time you are looking at this screen for the event you are managing, then it will be blank. If you need to add a new scoring method, click *New* in the bottom right corner:
 
 *Distance Scoring*
