@@ -20,10 +20,10 @@ The columns are defined and must be completed as follows:
 **Time**: This follows the structure of the timetable of your competition. Times are entered in 24hour format, i.e. 13:15. As with the day, if your event takes place over multiple days (e.g. 100m in the example screenshot) put the day of the first event/discipline. 
 **Parent**: This final column is for multi-eventers, i.e. heptathletes pentathletes and decathletes. For these, enter all events within the decathlon as the same number, as with the example below.
 
+**Currently (16th April 2019) we do not have a re-number event button so please do not do this once events and competitors have been loaded in. It is fine to edit Start Times but not Event Numbers!**
+
 *Multi-Event Competitions*
 ![Multievent](/uploads/events/multievent.png "Multievent")
-
-**Currently *(16th April 2019) we do not have a re-number event button so please do not do this once events and competitors have been loaded in. It is fine to edit Start Times but not Event Numbers!**
 # 1.2 Advanced Configuration
 When your event has rounds, you edit the *Advanced Configuration* to specify further details. 
 
