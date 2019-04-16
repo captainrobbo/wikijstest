@@ -22,6 +22,8 @@ The columns are defined and must be completed as follows:
 
 *Multi-Event Competitions*
 ![Multievent](/uploads/events/multievent.png "Multievent")
+
+**Currently *(16th April 2019) we do not have a re-number event button so please do not do this once events and competitors have been loaded in. It is fine to edit Start Times but not Event Numbers!**
 # 1.2 Advanced Configuration
 When your event has rounds, you edit the *Advanced Configuration* to specify further details. 
 
