@@ -105,6 +105,9 @@ The Scoring Methods that have have been designed and implemented already are as 
 *  **Welsh League (winner points = 2 x Num teams, B string = 1x)**
 	* *Explanation*: Points are scored per age group and then all are added up at the end of the event to provide an overall score as well as per age group. Age groups include U17, U20 and SEN (Masters age groups are included with the seniors). Points scored are defined by the number of teams in the event. Each team can have an A & B string scorer. The A string scorer receives double points per position based on number of teams, whilst B scorer gets 1 times. For example if you have 10 teams and your A String winner comes 3rd they will receive 16 points (1st gets 20, 2nd gets 18, etc etc). A 3rd place B string would get 8 (4th gets 7, 5th gets 6). 
 	* *Example*:
+*  **Southern Counties Veterans League**
+	* *Explanation*:
+	* *Example*:
 *  **Bosnian (winner points = number of teams**
 	* *Explanation*: Points are defined by the number of teams in the event. If you have 16 teams, 1st place in an event would get 16 points, with 16th place receiving 1 point and everything inbetween.
 	* *Example*: 
