@@ -103,5 +103,8 @@ The Scoring Methods that have have been designed and implemented already are as 
 	* *Explanation*: Four points scorers within each event. Awarded 5 for 1st, 3 for 2nd, 2 for 3rd and 1 for 4th. Meeting records secure bonus points which are input manually. See above for explanation on how.
 	* *Example*: https://data.opentrack.run/x/2019/GBR/waii/
 *  **Welsh League (winner points = 2 x Num teams, B string = 1x)**
-	* *Explanation*: Points scored are defined by the number of teams in the event. Each team can have an A & B string scorer. The A string scorer receives double points per position based on number of teams, whilst B scorer gets 1 times. For example if you have 10 teams and your A String winner comes 3rd they will receive 16 points (1st gets 20, 2nd gets 18, etc etc). A 3rd place B string would get 8 (4th gets 7, 5th gets 6). 
+	* *Explanation*: Points are scored per age group and then all are added up at the end of the event to provide an overall score as well as per age group. Age groups include U17, U20 and SEN (Masters age groups are included with the seniors). Points scored are defined by the number of teams in the event. Each team can have an A & B string scorer. The A string scorer receives double points per position based on number of teams, whilst B scorer gets 1 times. For example if you have 10 teams and your A String winner comes 3rd they will receive 16 points (1st gets 20, 2nd gets 18, etc etc). A 3rd place B string would get 8 (4th gets 7, 5th gets 6). 
 	* *Example*:
+*  **Bosnian (winner points = number of teams**
+	* *Explanation*: Points are defined by the number of teams in the event. If you have 16 teams, 1st place in an event would get 16 points, with 16th place receiving 1 point and everything inbetween.
+	* *Example*: 
