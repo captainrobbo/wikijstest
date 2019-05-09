@@ -1,7 +1,7 @@
 <!-- TITLE: Training Manual - Competitors Tab-->
 
 The competitors tab is where event organisers (rather than Team Managers) can enter athletes prior to the competition or on the day. Competitors can either be added in bulk or individually. 
-# Bulk Entry Input
+# 1.1 Bulk Entry Input
 Similar to the event entry grid, competitors can be pasted in from a spreadsheet. Once you have clicked on the *Competitor* tab on the left, at the bottom left of the grid Click the *“Bulk add/delete"* button, which is found at the bottom left of the page. 
 
 *Competitor Input*
@@ -28,7 +28,7 @@ Once completed click the blue *Save* button at the bottom right and you should b
 *Competitors Output*
 ![Competitors Tab](/uploads/competitors/competitors-tab.png "Competitors Tab")
 
-# Individual Entry Input
+# 1.2 Individual Entry Input
 As it suggests the individual entry screen is a quick and easy way to add athletes when they come in individually. 
 
 To use this function, click the blue *"Add new competitor"* button at the top right of the screen. This will bring up the following box:
@@ -65,3 +65,10 @@ The final tab is more for Federation Management users. It allows you to enter na
 It is also possible to mark an athlete as a non-scorer in a given competition here.
 
 ***Whenever you are finished, regardless of the tab you are on, either click the blue "Save" or "Save and add another"  (if you have more competitors to enter) button.***
+
+# 1.3 Practice
+If you want to have a practice at inputting competitors then use our Demo competition that can be found at the following link:
+
+https://data.opentrack.run/x/2018/GBR/ot_demo/
+
+Email *support@opentrack.run* for access.
