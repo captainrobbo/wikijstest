@@ -1,6 +1,6 @@
 <!-- TITLE: Training Manual - Scoring Tab -->
 The scoring tab can be used to set up scoring for points and categories across athletics meets and distance races, such as road and cross country.
-# Athletics Scoring
+# 1.1  Athletics Scoring
 This is for athletics (Track & Field) meets so covers all disciplines of athletics. 
 
 Firstly, choose the *Scoring* tab on the left hand side of the Manage screen. From here, click the *Scoring System* drop down and this will provide the options available. All of these have been prepared ad-hoc upon request. If the system you require is not listed here then please enquire to *support@opentrack.run* to see if we can implement the system you need.
@@ -111,3 +111,19 @@ The Scoring Methods that have have been designed and implemented already are as 
 *  **Bosnian (winner points = number of teams**
 	* *Explanation*: Points are defined by the number of teams in the event. If you have 16 teams, 1st place in an event would get 16 points, with 16th place receiving 1 point and everything inbetween.
 	* *Example*: 
+
+# 1.2 Carrying Over Scores
+If you have run a previous competition that had scoring points of relevance in the future then there is a method to carry these over. Currently (as of 9th May 2019) there are not scoring methods that do this automatically (as for example in a league) and so this solution is a bit of a work-around.
+
+In your new competition:
+
+1) Add a new event:
+	a) Easiest method is to make this the first event in your new competition.
+	b) Label the event code as OT (means Other Throw) as this is just generic
+	c) Call the name something along the lines of "Points carried over from Competition . . . "
+
+2) Enter the relevant persons into this event or if it is a team competition then no need to enter anyone. 
+
+3) Navigate to the event and click Edit (found via the dropdown on the tools icon).
+
+4) In the *Score ovverides* box enter the points required for each team. For example: BEL=5, THH=4, HHH=3, etc.
