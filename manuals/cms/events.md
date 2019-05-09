@@ -56,3 +56,10 @@ Complete the fields as follows:
 ***N.B. Currently, progression from heats to finals must be done manually.***
 
 When finished, click the blue *Save* button at the bottom right of the page. 
+
+# 1.3 Practice
+If you want to have a practice at inputting events then use our Demo competition that can be found at the following link:
+
+https://data.opentrack.run/x/2018/GBR/ot_demo/
+
+Email *support@opentrack.run* for access.
