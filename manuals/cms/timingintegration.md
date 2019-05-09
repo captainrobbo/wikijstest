@@ -47,7 +47,7 @@ Follow the instructions on the program to synchronise the Competition Management
 Once the fields are correct, they will turn green. If anything is incorrect, they will remain red. 
 
 Once everything is green:
-6. Click the button that reads *"Click to download lynx.ppl & lynx.evt files"*. This will download the competitor and event files. 
+6. Click the button that reads *"Click to download lynx.ppl & lynx.evt files"*. This will download the competitor and event files. **The system downloads EVT files to match the events saved in the system so DO NOT CHANGE EVENT FILES in either lif or evt format as this will ensure the process does not work.**
 7. Now click the button that reads *"Click to begin uploading"*. 
 
 Once steps 1 to 7 are completed the system now looks to the folder in step 2 every few seconds. Whenever a .lif file is saved into the folder at at the end of each race the program picks this up and automatically uploads it to the front end of the competition, ready for athletes and spectators to view. This means that results are available to view just a few seconds after the event has finished. The results are marked as unofficial until manually changed by the Race Director.
