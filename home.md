@@ -7,7 +7,7 @@ The [Training Manual for Competition Management](/manuals/competitionmanagement)
 
 # TV Feed Overlay
 
-If your competition is going to displayed on TV then you can use our integrated TV site to overlay a feed (displaying start lists, results, etc.) over the live action.
+If your competition is going to displayed on a TV feed then you can use our integrated TV site to overlay a feed (displaying start lists, results, etc.) over the live action.
 
 [TV Feed Overlay](/manuals/cms/tvfeed) - How to Set up the TV Overlay
 
