@@ -3,8 +3,8 @@
 <!-- SUBTITLE: Training Manuals - How to do everything -->
 
 # Competition Management System - Training Manual (in HTML format)
-Below are the manuals and traning guides for using OpenTracks Competition Management System.
-	
+The Training Manual for Competition Management contains all directories and instructions for running your own meeting, whether it is a simple road road or x-country event through to a complete start-to-finish athletics meeting. Manuals are found here. 
+
 	# 1.1 Starting Up
 
 [Sign up to OpenTrack](/manuals/cms/signup) - How to sign up and log in to OpenTrack
