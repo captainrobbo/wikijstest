@@ -26,7 +26,7 @@ Once you have opened the event in question you will see the list of competitors.
 If you require to remove the data and start again, click the red *Delete Data* button at the bottom left. 
 
 *Fetching Start Lists*
-![Fetchstartlist](/uploads/recording-field-events/fetchstartlist.png "Fetchstartlist")
+![Fetchstartlist](/uploads/issues/fetchstartlist-2.png "Fetchstartlist")
 
 Once this has been loaded you will be presented with the list of competitors entered into this event. If required you can now download a Field Card (PDF format) of the Start List by clicking the *Start List* button to the left of *Fetch Start List*. 
 
