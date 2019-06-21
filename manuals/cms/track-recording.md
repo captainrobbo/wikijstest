@@ -89,3 +89,8 @@ Clicking the event title at the top of the page (in blue) it will take you to th
 *Results*
 ![Results](/uploads/track-results/results.png "Results")
  To make further changes, click the *Edit Results* button on the right. 
+ 
+ When viewing results it is possible to filter them on both category (age group, gender etc) and/or team. Click the "Filter" icons as seen in the image below.
+
+*Filtering Results*
+![filter-results](/uploads/issues/filter-results.png "filter-results")
