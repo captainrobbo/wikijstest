@@ -11,7 +11,7 @@ Currently, as of 5th February 2019, integration has been completed for two of th
 From the Competition Management screen of the meeting in question, choose *Timing Integration* on the options panel running down the left of the screen. The screen that loads will show you the available options that can currently be synchronised with. Simply click the relevant one. In this instance we are choosing *FinishLynx.* All PhotoFinish technology will synchronise the same way with OpenTrack.
 
 *Timing-Integration Selection*
-![Select Tech](/uploads/timing-integration/select-tech.png "Select Tech")
+![Select Tech](/uploads/timing-integration/select-tech2.png "Select Tech")
 
 Once you have clicked FinishLynx, you will be shown the following screen. If this is the first time you are following this procedure, you will need to download the synchronisation program. To do this click the button we have highlighted in red labelled *Latest EXE file*. 
 
