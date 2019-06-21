@@ -213,3 +213,8 @@ Once saved, click the title of the event at the top left to return and view the 
 
 *Results*
 ![Results](/uploads/field-event-post-vertical/results.png "Results")
+
+When viewing results it is possible to filter them on both category (age group, gender etc) and/or team. Click the "Filter" icons as seen in the image below.
+
+*Filtering Results*
+![filter-results](/uploads/issues/filter-results.png "filter-results")
