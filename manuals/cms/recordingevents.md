@@ -33,7 +33,7 @@ Once this has been loaded you will be presented with the list of competitors ent
 Now you have the list of competitors, you can start to enter results as the athletes record jumps. To do this, click the orange *Record* button as seen below.
 
 *Click Record to Enter Results*
-![Clickrecord](/uploads/recording-field-events/clickrecord.png "Clickrecord")
+![Clickrecord](/uploads/issues/enterresults.png "Clickrecord")
 
 Clicking *Record* will take you to an editable screen where, at the beginning, all competitors are highlighted in green. This denotes they have not suffered any fouls, retired or been disqualified. 
 
