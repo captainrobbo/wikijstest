@@ -50,7 +50,7 @@ If your competition does not have PhotoFinish or, for whatever reason, you are u
 As with most recording input screens, from your Competition homepage, click *Start Lists / Results*. From the resulting screen, choose the event in question. In this example we have selected a 200m race. Once you have clicked your event, you will be presented with the screen below. In this race, the competitors have already been seeded, which is why they are showing. If you wish to seed your athletes click [here](/manuals/cms/seeding-tab) to learn how. Alternatively, if you do not care about the lane order, click the blue *Fetch Start List* button at the top right. However, if any of your thletes have a PB or SB attached to them, which would most likely have been entered when initially loading the competitors, then the *Fetch Start List* button will not show. Instead you will be given the option to seed, as shown by the *Seeding and Lane Draws* button. Click [here](/manuals/cms/seeding-tab) to learn how you can seed your athletes. 
 
 *Competitor List - Seeded*
-![Click Edit](/uploads/track-results/click-edit.png "Click Edit")
+![Click Edit](/uploads/issues/clickedit-2.png "Click Edit")
 
 Once you have a list of athletes showing in the event, you can click *Edit* or *By Lane*. *By Lane* is often used for track races, from 60m up to 400m where they are lane based. It is easy to edit results if they are given to you in lane order. The other option of *Edit* gives you the option to input results in finishing order. In this example we have clicked *Edit* (ironically with a 100m race). This will give you the following screen. 
 
