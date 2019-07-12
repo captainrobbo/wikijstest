@@ -3,7 +3,7 @@
 <!-- SUBTITLE: Training Manuals - How to do everything -->
 
 # Competition Management System - Training Manual
-The [Training Manual for Competition Management](/manuals/competitionmanagement) contains all directories and instructions for running your own meeting, whether it is a simple road road or x-country event through to a complete start-to-finish athletics meeting. Manuals are found [here](/manauals/competitionmanagement). 
+The [Training Manual for Competition Management](/manuals/competitionmanagement) contains all directories and instructions for running your own meeting, whether it is a simple road road or x-country event through to a complete start-to-finish athletics meeting. Manuals are found [here](/manuals/competitionmanagement). 
 
 # TV Feed Overlay
 
