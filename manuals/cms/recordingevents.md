@@ -147,6 +147,8 @@ The default view from this screen is just the *Summary*, as highlighted in blue.
 
 Once you have clicked *Details* you will be shown all the available rounds. Simply paste the results in from a pre-populated speadsheet or type them in. The system knows which athlete corresponds to which bib so just match the results to the bib. Once you click *Save* then the *Place* column will automatically populate. Finally, it is possible to enter the weight of the Shot for each athlete in here.
 
+If you have an athlete who is in the start list but does not compete then simply leave all their efforts blank. The system will automatically calculate them DNS and leave them at the bottom of the results display.
+
 You can also click the *Show Athlete Details* button to view more information, such as the name and club. 
 
 *Show Athlete Details*
