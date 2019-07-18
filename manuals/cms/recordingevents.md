@@ -115,7 +115,7 @@ For events, such as Long Jump, where wind is recorded in the results, you follow
 *Recording Wind Speed*
 ![Wind](/uploads/horizontal/wind.png "Wind")
 
-Use the same process to record the wind speed as you do to enter the distance.
+Use the same process to record the wind speed as you do to enter the distance. Enter "+" or "-" as appropriate, for example "+2.3". If there is no wind speed, enter "0.0". 
 
 # 1.3 Post Event Results Input 
 
@@ -162,7 +162,9 @@ For Long Jump & Triple Jump there is also the option to input a wind speed per r
 *Entering Wind Speed*
 ![Windinput](/uploads/fieldevent-postevent/windinput.png "Windinput")
 
-This will show in the results display in brackets underneath each competitor's effort.
+Enter "+" or "-" as appropriate, for example "+2.3". If there is no wind speed, enter "0.0". 
+
+This will show in the results display in brackets underneath each competitor's effort. 
 
 *Wind Speed Display*
 ![Winddisplay](/uploads/fieldevent-postevent/winddisplay.png "Winddisplay")
