@@ -46,7 +46,7 @@ The first step to take is to raise the bar height from 0.00cm. To do this click 
 *Raising the Bar*
 ![Raisebar](/uploads/recording-field-events/raisebar.png "Raisebar")
 
-From this screen, you need to choose a height, either selected by competitor or the competition's starting height. The height can be edited at any time when a competitor chooses to raise it. To choose the height, click in the box that appeared when you click the *Raise* button. Click in the box and type the desired height, as seen below. When finished click the blue *New Height* button.
+From this screen, you need to choose a height, either selected by competitor or the competition's starting height. The height can be edited at any time when a competitor chooses to raise it. To choose the height, click in the box that appeared when you click the *Raise* button. Click in the box and type the desired height, as seen below.  **Please note that the system expects your local language so if you normally use a comma for a decimal place in your country then type a comma - for example "1,05" rather than "1.05."** When finished click the blue *New Height* button.
 
 *Choosing New Height*
 ![Chooseheight](/uploads/recording-field-events/chooseheight.png "Chooseheight")
