@@ -102,7 +102,7 @@ Once the *Record* button has been clicked, the recording box will pop up.
 *Recording a Distance*
 ![Set Distance](/uploads/horizontal/set-distance.png "Set Distance")
 
-Click in the *Distance* box to bring up the keyboard and type in the distance thrown by the athlete. 
+Click in the *Distance* box to bring up the keyboard and type in the distance thrown by the athlete. As with the vertical disciplines, note that the system expects your local language so if you normally use a comma for a decimal place in your country then type a comma - for example "1,05" rather than "1.05." 
 
 Click the blue Tick at the bottom right to record the distance.
 
